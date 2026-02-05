@@ -1,0 +1,8498 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-05T14:44:00.850Z",
+  "license": "CC-BY-SA-4.0",
+  "repository": "https://github.com/trail-project/stories",
+  "locations": [
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Sightseeing of Ölüdeniz"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.53508",
+        "lon": "29.139856"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-24T09:41:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.524599",
+        "lon": "29.154975"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Water",
+        "Toilets",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-24T14:30:49.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Turnout"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 5,
+        "name": "Tourist Attractions & Landmarks"
+      },
+      "coordinates": {
+        "lat": "36.558217",
+        "lon": "29.138726"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T06:42:52.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Start of parkour and sightseeing "
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.545927",
+        "lon": "29.13389"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T06:42:59.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Sightseeing of Ölüdeniz"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.53508",
+        "lon": "29.139856"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T06:43:04.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Left "
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.524346",
+        "lon": "29.15149"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T06:43:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Start point of Lycian way"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.561343",
+        "lon": "29.137785"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-25T07:08:18.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Montenegro hotel"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.494701",
+        "lon": "29.135776"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Accomodation",
+        "Water",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-09-25T07:15:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.480271",
+        "lon": "29.111724"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Slippery"
+      ],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-25T08:08:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.479524",
+        "lon": "29.111018"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Slippery"
+      ],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-25T08:11:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Faralya Misafir Evi (hotel)"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.493689",
+        "lon": "29.13506"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Accomodation",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-09-25T08:14:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Down"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.477851",
+        "lon": "29.10869"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-25T08:17:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Faralya"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.493966",
+        "lon": "29.136054"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Food",
+        "Shadow",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-09-25T08:27:25.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Left "
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.477851",
+        "lon": "29.10869"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T08:45:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Straight"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.476455",
+        "lon": "29.106758"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T09:01:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Right down"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.471385",
+        "lon": "29.107886"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Slippery"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T09:27:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Straight"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.466158",
+        "lon": "29.116315"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T09:59:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Straight"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.465416",
+        "lon": "29.117989"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T10:02:16.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Right "
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.465604",
+        "lon": "29.121917"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T10:17:53.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Right"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.476743",
+        "lon": "29.108734"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T10:24:44.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Right down"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.470569",
+        "lon": "29.112606"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-25T10:24:58.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Straight"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.464237",
+        "lon": "29.121743"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Slippery"
+      ],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-25T10:25:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Kabak Beach "
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.46117",
+        "lon": "29.125134"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Water",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-09-25T15:47:23.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Market, toilet and shower"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 24,
+        "name": "Operators & Providers"
+      },
+      "coordinates": {
+        "lat": "36.461906",
+        "lon": "29.125673"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-09-26T07:19:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Start Point of Ge(Yediburunlar)"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.400705",
+        "lon": "29.137817"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T07:15:53.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Ge Market, Camping, Pansion"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.40157",
+        "lon": "29.137034"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-09-27T07:27:31.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.380376",
+        "lon": "29.172051"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T11:36:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Be careful"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.387277",
+        "lon": "29.150382"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Dangerous Path",
+        "Slippery"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T11:38:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.374962",
+        "lon": "29.173779"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T11:46:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Right "
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.373204",
+        "lon": "29.174566"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T11:55:26.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Straight"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.372315",
+        "lon": "29.174004"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T11:57:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Sütleğen plant"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.366702",
+        "lon": "29.176414"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T12:28:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Pıynar Oak"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.366734",
+        "lon": "29.176581"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T12:31:53.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 10,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 10,
+        "name": "Belceğiz - Gavurağılı"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.362536",
+        "lon": "29.181346"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-27T13:07:44.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 10,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 10,
+        "name": "Belceğiz - Gavurağılı"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.35471",
+        "lon": "29.185752"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-09-30T08:34:34.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Fatma Pansion & Camping"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.380693",
+        "lon": "29.171958"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-09-30T09:19:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Market "
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.509415",
+        "lon": "29.154694"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-10-18T13:33:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Gül Market & Pension"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.496167",
+        "lon": "29.139877"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-10-18T13:57:31.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Kelebek restaurant "
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.495178",
+        "lon": "29.137605"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-18T14:01:43.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Bus station"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.494925",
+        "lon": "29.137501"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-18T14:03:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.50481",
+        "lon": "29.14897"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-18T15:20:23.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Sightseeing of Kelebekler Vadisi"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.495405",
+        "lon": "29.126018"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-19T06:58:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Scots pine / sarı çam (Pinus sylvestris L.)"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.494416",
+        "lon": "29.118754"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-19T07:10:05.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Kabak Bus station (just for kabak village, no available for some"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.462906",
+        "lon": "29.125267"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-19T10:29:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Kabak Misafir Evi Hotel & Restaurant"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.467365",
+        "lon": "29.124721"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-10-19T18:39:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Ottoman cistern"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.430626",
+        "lon": "29.145236"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-20T14:45:59.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Olive tree"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.386876",
+        "lon": "29.146787"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-21T08:32:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Kadir’in Yeri "
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.362398",
+        "lon": "29.180418"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-10-21T13:43:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 10,
+      "title": {
+        "en": "Zeynep Ablanın yeri (restaurant)"
+      },
+      "segment": {
+        "id": 10,
+        "name": "Belceğiz - Gavurağılı"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.33876",
+        "lon": "29.199774"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-10-21T13:46:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.275514",
+        "lon": "29.447862"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-25T08:51:43.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.275514",
+        "lon": "29.447862"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-25T09:04:46.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Fountain, Toilet, Market "
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.275822",
+        "lon": "29.46243"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-25T09:28:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.27531",
+        "lon": "29.462648"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-25T09:31:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Left"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.27187",
+        "lon": "29.462141"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-25T09:38:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Right"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.271678",
+        "lon": "29.463441"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-25T09:42:34.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Tradational grain silos"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.275302",
+        "lon": "29.447578"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-26T07:57:43.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.268409",
+        "lon": "29.463842"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-26T08:00:17.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 16,
+      "title": {
+        "en": "Topçam "
+      },
+      "segment": {
+        "id": 16,
+        "name": "Sarıbelen - Gökçeören"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.242036",
+        "lon": "29.547351"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-26T12:55:17.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 16,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 16,
+        "name": "Sarıbelen - Gökçeören"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.257181",
+        "lon": "29.486972"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-26T12:56:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 18,
+      "title": {
+        "en": "Water in spring time & Shelter"
+      },
+      "segment": {
+        "id": 18,
+        "name": "Hacıoğlan - Phellos Ancient City"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.263702",
+        "lon": "29.627299"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "No Signal"
+      ],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-28T22:36:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 18,
+      "title": {
+        "en": "Water in spring time & Shelter"
+      },
+      "segment": {
+        "id": 18,
+        "name": "Hacıoğlan - Phellos Ancient City"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.263702",
+        "lon": "29.627299"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "No Signal"
+      ],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-29T08:05:51.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 31,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 31,
+        "name": "Demre - Belören"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.288278",
+        "lon": "29.973389"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-29T09:03:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 31,
+      "title": {
+        "en": "Start point of Demre"
+      },
+      "segment": {
+        "id": 31,
+        "name": "Demre - Belören"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.285514",
+        "lon": "29.968945"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-29T09:12:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 31,
+      "title": {
+        "en": "House for food"
+      },
+      "segment": {
+        "id": 31,
+        "name": "Demre - Belören"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.306668",
+        "lon": "29.97485"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Food",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-29T16:11:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 31,
+      "title": {
+        "en": "Tombs "
+      },
+      "segment": {
+        "id": 31,
+        "name": "Demre - Belören"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.30355",
+        "lon": "29.9715"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-29T16:11:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 31,
+      "title": {
+        "en": "Bank, rest place, no water"
+      },
+      "segment": {
+        "id": 31,
+        "name": "Demre - Belören"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.306308",
+        "lon": "29.974291"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-29T16:11:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 32,
+      "title": {
+        "en": "Mosque"
+      },
+      "segment": {
+        "id": 32,
+        "name": "Belören - Alakilise"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.325666",
+        "lon": "29.992564"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-29T16:11:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 33,
+      "title": {
+        "en": "Rock & soil mix"
+      },
+      "segment": {
+        "id": 33,
+        "name": "Alakilise - Yatıkardıç Plateau"
+      },
+      "category": {
+        "id": 22,
+        "name": "Trail Conditions & Closures"
+      },
+      "coordinates": {
+        "lat": "36.348619 ",
+        "lon": "30.010941"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Rock"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-30T12:50:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 34,
+      "title": {
+        "en": "Free Camping area"
+      },
+      "segment": {
+        "id": 34,
+        "name": "Yatıkardıç Plateau - Finike"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3001",
+        "lon": "30.073538"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-31T08:17:25.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Camping"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.250526",
+        "lon": "30.406782"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:19:15.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 33,
+      "title": {
+        "en": "Kekik (origanum)"
+      },
+      "segment": {
+        "id": 33,
+        "name": "Alakilise - Yatıkardıç Plateau"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.34762",
+        "lon": "30.011036"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:24:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Restaurant "
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.250396",
+        "lon": "30.406883"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:27:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 33,
+      "title": {
+        "en": "Kekik (origanum)"
+      },
+      "segment": {
+        "id": 33,
+        "name": "Alakilise - Yatıkardıç Plateau"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.34762",
+        "lon": "30.011036"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:28:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Cafe"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.246147",
+        "lon": "30.40593"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:28:30.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Restaurant "
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.250396",
+        "lon": "30.406883"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:28:39.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "Viewpoint"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.237428",
+        "lon": "30.408795"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-10-31T08:38:04.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Information"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 19,
+        "name": "Regulations & Permits"
+      },
+      "coordinates": {
+        "lat": "36.230268",
+        "lon": "30.406275"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-10-31T08:50:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Info and map"
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 17,
+        "name": "Pilgrimage & Religious Sites"
+      },
+      "coordinates": {
+        "lat": "36.314181",
+        "lon": "30.462099"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-01T07:19:30.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Start point "
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.314115",
+        "lon": "30.462019"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-01T07:20:39.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Market"
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.314489",
+        "lon": "30.461259"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-01T07:24:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Korsan coast"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.254731",
+        "lon": "30.406333"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-01T07:25:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Maden coast "
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.439258",
+        "lon": "30.48722"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-11-04T10:32:41.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.230217",
+        "lon": "30.406175"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-11-04T10:33:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Korsan coast"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.254731",
+        "lon": "30.406333"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-04T10:33:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Start point of Tekirova"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.519156",
+        "lon": "30.538585"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-05T07:54:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Asphalt"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 22,
+        "name": "Trail Conditions & Closures"
+      },
+      "coordinates": {
+        "lat": "36.563661",
+        "lon": "30.530218"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-05T11:13:16.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Sandal tree"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.551824",
+        "lon": "30.518896"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-05T12:43:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.542413",
+        "lon": "30.529001"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-05T12:45:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.564456",
+        "lon": "30.525747"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-05T12:47:58.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Information of Flora"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 17,
+        "name": "Pilgrimage & Religious Sites"
+      },
+      "coordinates": {
+        "lat": "36.219476",
+        "lon": "30.40875"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-09T04:12:04.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Information of Flora"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.217679",
+        "lon": "30.40893"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-11-14T06:43:52.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Gelidonya Lighthouse"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.219185",
+        "lon": "30.409687"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T09:07:56.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Bank (rest area)"
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.338579",
+        "lon": "30.468877"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T11:25:13.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Start point of Çıralı (sea side)"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.424756",
+        "lon": "30.480432"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T12:24:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Beach"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.433434",
+        "lon": "30.480339"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "No Signal"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T13:11:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "King’s Bay"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.43709",
+        "lon": "30.483139"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "No Signal"
+      ],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:16:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.439077",
+        "lon": "30.49206"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T13:21:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.461461",
+        "lon": "30.504939"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:27:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Beycikbükü Beach"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.459899",
+        "lon": "30.509628"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T13:30:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Fountain & Signage "
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.468877",
+        "lon": "30.502842"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:34:17.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Tekirova beach "
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.468055",
+        "lon": "30.506615"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T13:36:17.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Alda Hotel"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.565246",
+        "lon": "30.526091"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Accomodation",
+        "Toilets",
+        "Food",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:38:52.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Signage"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.603117",
+        "lon": "30.483712"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:42:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Roman Old Bridge & Restaurant "
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.600196",
+        "lon": "30.485845"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:46:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Dangerous path "
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 22,
+        "name": "Trail Conditions & Closures"
+      },
+      "coordinates": {
+        "lat": "36.627514",
+        "lon": "30.471142"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Dangerous Path",
+        "Slippery"
+      ],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T13:48:20.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Tree - Juniperus L. (Ardıç Ağacı)"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.643318",
+        "lon": "30.460181"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T14:15:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Tree - Platanus orientalis (Doğu Çınarı Ağacı)"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.645376",
+        "lon": "30.458376"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T14:20:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Turnout"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 21,
+        "name": "Wayfinding & Signage"
+      },
+      "coordinates": {
+        "lat": "36.645717",
+        "lon": "30.450753"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:22:53.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Fountain"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.648515",
+        "lon": "30.448723"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-05T14:26:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Viewpoint"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.634788",
+        "lon": "30.467747"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:28:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Fountain "
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.743976",
+        "lon": "30.483747"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-05T14:30:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "Ground texture: Soil, some rock, slightly slippery"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 22,
+        "name": "Trail Conditions & Closures"
+      },
+      "coordinates": {
+        "lat": "36.793189",
+        "lon": "30.43816"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Slippery"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:38:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 44,
+      "title": {
+        "en": "Mountain Pass (Dayısı geçidi)"
+      },
+      "segment": {
+        "id": 44,
+        "name": "Göynük Canyon-Hisarçandır"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.74436",
+        "lon": "30.497083"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:45:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 18,
+      "title": {
+        "en": "Bushes - Ruscus aculeatus (Kokina)"
+      },
+      "segment": {
+        "id": 18,
+        "name": "Hacıoğlan - Phellos Ancient City"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.243196",
+        "lon": "29.65306"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-05T14:52:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Sidek & Badem Market"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.265478",
+        "lon": "29.487718"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:55:13.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 20,
+      "title": {
+        "en": "Çukurbağ Market"
+      },
+      "segment": {
+        "id": 20,
+        "name": "Pınarbaşı - Çukurbağ"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.232428",
+        "lon": "29.670715"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-05T14:58:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Free Camping Area in Faralya"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.496184",
+        "lon": "29.137117"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Shadow",
+        "Food",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-06T11:36:08.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Free Camping Area in Faralya (without toilet or shower)"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.494644",
+        "lon": "29.125162"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-06T11:42:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "Start point of Faralya-1"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.491946",
+        "lon": "29.133513"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-06T12:41:34.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 6,
+      "title": {
+        "en": "Start point of Kabak village"
+      },
+      "segment": {
+        "id": 6,
+        "name": "Kabak Coast - Alınca"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.470505",
+        "lon": "29.129159"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-06T13:22:56.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 5,
+      "title": {
+        "en": "End point of Kabak"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.467448",
+        "lon": "29.124716"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-07T08:28:10.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Start point of Alınca"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.446195",
+        "lon": "29.14349"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-07T16:43:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 6,
+      "title": {
+        "en": "End point of Alınca"
+      },
+      "segment": {
+        "id": 6,
+        "name": "Kabak Coast - Alınca"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.448192",
+        "lon": "29.142505"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-07T16:46:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Sun Ocean Motel"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5756641",
+        "lon": "29.1486228"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Accomodation",
+        "Water",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-07T16:55:58.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Sunset Apart Hotel"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5695438",
+        "lon": "29.1477146"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Food",
+        "Toilets",
+        "Shadow",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:00:41.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Sunset Apart Hotel"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5695438",
+        "lon": "29.1477146"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Accomodation",
+        "Water",
+        "Shadow",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:01:09.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "The Pine Hill Hotel & Suites"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5746326",
+        "lon": "29.1360322"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:03:30.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Halil’s cafe"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.5251316",
+        "lon": "29.1596953"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:08:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Doğa Cafe"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.5085698",
+        "lon": "29.1487160"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Water",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:13:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Türkdomes Glamping"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.4368722",
+        "lon": "29.1425278"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Accomodation",
+        "Toilets",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:18:14.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Çeti Camping & Cafe"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.4325922",
+        "lon": "29.1464170"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:19:32.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "End point of Ge(Yediburunlar)"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.4016081",
+        "lon": "29.1368600"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-07T17:34:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Yediburunlar Lighthouse Boutique Hotel & Restaurant"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.4045384",
+        "lon": "29.1307020"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Food",
+        "Shadow",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-07T17:38:25.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 7,
+      "title": {
+        "en": "Yediburunlar Pavlonya Bungalows & Camping"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3809001",
+        "lon": "29.1402510"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Accomodation",
+        "Toilets",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-08T16:54:34.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Nasuh Camping & Pansion / Restaurant"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3828347",
+        "lon": "29.1688859"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-08T16:58:09.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "Raziye Pension & Camping & Ramazan Market"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3820727",
+        "lon": "29.1711326"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:05:32.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 8,
+      "title": {
+        "en": "End point of Bel"
+      },
+      "segment": {
+        "id": 8,
+        "name": "Ge(Yediburunlar) - Bel"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3819202",
+        "lon": "29.1711846"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:06:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 9,
+      "title": {
+        "en": "Start point of Bel"
+      },
+      "segment": {
+        "id": 9,
+        "name": "Bel - Belceğiz"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3803465",
+        "lon": "29.1721478"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:16:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 11,
+      "title": {
+        "en": "Likya Garden Life Tiny House & Camping"
+      },
+      "segment": {
+        "id": 11,
+        "name": "Gavurağılı - Patara(Karadere Beach)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3316964",
+        "lon": "29.2265293"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Food",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:26:50.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 11,
+      "title": {
+        "en": "End Point of Patara(Karadere Beach)"
+      },
+      "segment": {
+        "id": 11,
+        "name": "Gavurağılı - Patara(Karadere Beach)"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3326531",
+        "lon": "29.2254959"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:29:50.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 11,
+      "title": {
+        "en": "Karadere Beach "
+      },
+      "segment": {
+        "id": 11,
+        "name": "Gavurağılı - Patara(Karadere Beach)"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.3283352",
+        "lon": "29.2259352"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:33:20.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 12,
+      "title": {
+        "en": "Start point of Patara(Karadere Beach)"
+      },
+      "segment": {
+        "id": 12,
+        "name": "Patara(Karadere Beach)-Letoon & Xanthos Ancie"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3295458",
+        "lon": "29.2323399"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:36:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 12,
+      "title": {
+        "en": "Xanthos Ancient City"
+      },
+      "segment": {
+        "id": 12,
+        "name": "Patara(Karadere Beach)-Letoon & Xanthos Ancie"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.3568625",
+        "lon": "29.3186994"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:42:32.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 12,
+      "title": {
+        "en": "Letoon Ancient City"
+      },
+      "segment": {
+        "id": 12,
+        "name": "Patara(Karadere Beach)-Letoon & Xanthos Ancie"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.3321593",
+        "lon": "29.2897992"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Water",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:44:20.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 11,
+      "title": {
+        "en": "Bus station "
+      },
+      "segment": {
+        "id": 11,
+        "name": "Gavurağılı - Patara(Karadere Beach)"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.3297273",
+        "lon": "29.2327620"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:48:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Fethiye Bus station "
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.6245375",
+        "lon": "29.1323653"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:51:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 12,
+      "title": {
+        "en": "Kınık Bus Station"
+      },
+      "segment": {
+        "id": 12,
+        "name": "Patara(Karadere Beach)-Letoon & Xanthos Ancie"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.3526230",
+        "lon": "29.3191657"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-08T17:54:40.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 12,
+      "title": {
+        "en": "End point of Xanthos "
+      },
+      "segment": {
+        "id": 12,
+        "name": "Patara(Karadere Beach)-Letoon & Xanthos Ancie"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3526230",
+        "lon": "29.3191657"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-08T17:59:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 13,
+      "title": {
+        "en": "Patara Ancient City"
+      },
+      "segment": {
+        "id": 13,
+        "name": "Letoon & Xanthos Ancient City-Patara(Gelemiş)"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.2605786",
+        "lon": "29.3165717"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T08:12:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "Phaselis Ancient City"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.5248291",
+        "lon": "30.5513243"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T08:18:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 13,
+      "title": {
+        "en": "Patara Sand Hills "
+      },
+      "segment": {
+        "id": 13,
+        "name": "Letoon & Xanthos Ancient City-Patara(Gelemiş)"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.2766927",
+        "lon": "29.2978063"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T08:25:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 13,
+      "title": {
+        "en": "Patara Beach (Gelemiş)"
+      },
+      "segment": {
+        "id": 13,
+        "name": "Letoon & Xanthos Ancient City-Patara(Gelemiş)"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2532941",
+        "lon": "29.3129319"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T08:28:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Olympos Ancient City"
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.3929717",
+        "lon": "30.4707054"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T10:49:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 38,
+      "title": {
+        "en": "Olympos Beach"
+      },
+      "segment": {
+        "id": 38,
+        "name": "Adrasan - Olimpos"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.3968844",
+        "lon": "30.4758690"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T10:52:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 39,
+      "title": {
+        "en": "Chimera National Park "
+      },
+      "segment": {
+        "id": 39,
+        "name": "Olimpos - Çıralı"
+      },
+      "category": {
+        "id": 9,
+        "name": "Historical & Mythological Stories"
+      },
+      "coordinates": {
+        "lat": "36.4289473",
+        "lon": "30.4652807"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T10:56:49.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 30,
+      "title": {
+        "en": "Myra Ancient City"
+      },
+      "segment": {
+        "id": 30,
+        "name": "Demre Çayağzı - Demre"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.2586664",
+        "lon": "29.9852611"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-09T11:04:10.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 30,
+      "title": {
+        "en": "The Church of Saint Nicholas"
+      },
+      "segment": {
+        "id": 30,
+        "name": "Demre Çayağzı - Demre"
+      },
+      "category": {
+        "id": 17,
+        "name": "Pilgrimage & Religious Sites"
+      },
+      "coordinates": {
+        "lat": "36.2446317",
+        "lon": "29.9855455"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Food",
+        "Toilets",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-09T11:08:35.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "Andriake Ancient City"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.2260103",
+        "lon": "29.9563691"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-09T11:17:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 27,
+      "title": {
+        "en": "Kekova Ancient City"
+      },
+      "segment": {
+        "id": 27,
+        "name": "Kaleüçağız - Kekova"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1816902",
+        "lon": "29.8664369"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T11:24:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 27,
+      "title": {
+        "en": "Simena Castle"
+      },
+      "segment": {
+        "id": 27,
+        "name": "Kaleüçağız - Kekova"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1912168",
+        "lon": "29.8620666"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Food",
+        "Water",
+        "Shadow",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-09T11:26:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 34,
+      "title": {
+        "en": "Limyra Ancient City"
+      },
+      "segment": {
+        "id": 34,
+        "name": "Yatıkardıç Plateau - Finike"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.3424437",
+        "lon": "30.1689328"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T11:31:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Start point of Patara(Gelemiş) "
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.269459",
+        "lon": "29.325560"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T14:57:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 13,
+      "title": {
+        "en": "St.Nicholas Pension "
+      },
+      "segment": {
+        "id": 13,
+        "name": "Letoon & Xanthos Ancient City-Patara(Gelemiş)"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2751534",
+        "lon": "29.3199087"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Shadow",
+        "Food",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:02:08.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Aqueduct Delikkemer"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.264131",
+        "lon": "29.365415"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T15:08:43.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "End point of Kalkan"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2655374",
+        "lon": "29.4146785"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:13:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Payava Hotel by True Blue"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2660886",
+        "lon": "29.4024453"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:15:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Neruda Hotel"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2673410",
+        "lon": "29.4137421"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:17:18.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Kuşhane Restaurant"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2674769",
+        "lon": "29.4132274"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:18:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Indigo Beach Club & Restaurant"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2622366",
+        "lon": "29.4127239"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:19:56.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "Kalkan Bus Station"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 13,
+        "name": "Transportation & Accessibility (includes Boat/Water)"
+      },
+      "coordinates": {
+        "lat": "36.2709240",
+        "lon": "29.4124721"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:23:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 50,
+      "title": {
+        "en": "The Mediteran Hotel"
+      },
+      "segment": {
+        "id": 50,
+        "name": "Patara(Gelemiş)-Kalkan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2678621",
+        "lon": "29.4184256"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:28:25.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Start point of Kalkan"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2550679",
+        "lon": "29.4352588"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T15:31:05.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Pirha Köy Sofrası (restaurant)"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2758727",
+        "lon": "29.4624738"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:34:40.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Çelik market "
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 23,
+        "name": "Amenities & Utilities"
+      },
+      "coordinates": {
+        "lat": "36.2758219",
+        "lon": "29.4624822"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:36:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Mozaik Pension"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2629422",
+        "lon": "29.4797395"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:37:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Istanbullu Gelin Cafe"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2626370",
+        "lon": "29.4799048"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Toilets",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:39:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "Karafil Pension & Camping "
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2652200",
+        "lon": "29.4784973"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Food",
+        "Accomodation",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-09T15:41:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 15,
+      "title": {
+        "en": "End point of Sarıbelen"
+      },
+      "segment": {
+        "id": 15,
+        "name": "Bezirgan Plateau - Sarıbelen"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2659602",
+        "lon": "29.4768112"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T15:43:26.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 16,
+      "title": {
+        "en": "Start point of Sarıbelen"
+      },
+      "segment": {
+        "id": 16,
+        "name": "Sarıbelen - Gökçeören"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2617467",
+        "lon": "29.4802434"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T15:48:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 16,
+      "title": {
+        "en": "End point of Gökçeören"
+      },
+      "segment": {
+        "id": 16,
+        "name": "Sarıbelen - Gökçeören"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2394415",
+        "lon": "29.5455706"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-09T16:01:05.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 14,
+      "title": {
+        "en": "Kaputaş Beach"
+      },
+      "segment": {
+        "id": 14,
+        "name": "Kalkan - Bezirgan Plateau"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2297486",
+        "lon": "29.4489957"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-09T16:04:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 16,
+      "title": {
+        "en": "Huseyin’s House "
+      },
+      "segment": {
+        "id": 16,
+        "name": "Sarıbelen - Gökçeören"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.240186",
+        "lon": "29.491802"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-09T16:08:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 17,
+      "title": {
+        "en": "Start point of Gökçeören"
+      },
+      "segment": {
+        "id": 17,
+        "name": "Gökçeören - Hacıoğlan"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.239414",
+        "lon": "29.545701"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T16:35:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 18,
+      "title": {
+        "en": "Phellos Ancient City"
+      },
+      "segment": {
+        "id": 18,
+        "name": "Hacıoğlan - Phellos Ancient City"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.24204",
+        "lon": "29.659552"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T16:38:51.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 32,
+      "title": {
+        "en": "Alakilise Church"
+      },
+      "segment": {
+        "id": 32,
+        "name": "Belören - Alakilise"
+      },
+      "category": {
+        "id": 17,
+        "name": "Pilgrimage & Religious Sites"
+      },
+      "coordinates": {
+        "lat": "36.330861",
+        "lon": "30.002465"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T16:45:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Uyuyan Dev Mountain"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.208456",
+        "lon": "29.64528"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-09T16:58:18.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "End point of Kaş"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1994840",
+        "lon": "29.6413557"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T10:51:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Tomb"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1994740",
+        "lon": "29.6424527"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T10:54:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Antiphellos Ancient City"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1999380",
+        "lon": "29.6348691"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [
+        "Dangerous Path"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T10:58:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Defne Hotel"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.1975669",
+        "lon": "29.6450521"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Toilets",
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:02:18.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Butka Restaurant"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2000179",
+        "lon": "29.6411689"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:04:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Füm Smokehouse"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.1992484",
+        "lon": "29.6377632"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Water",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:05:26.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Kaş Gurme Felafel"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2010798",
+        "lon": "29.6410821"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:07:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Athena Hotel"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.1991185",
+        "lon": "29.6430881"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Shadow",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:08:36.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Küçükçakıl Beach"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1972449",
+        "lon": "29.6440644"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:10:27.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Büyükçakıl Beach"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1916640",
+        "lon": "29.6515357"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Accomodation",
+        "Food",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:11:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "İnceboğaz Beach "
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2002254",
+        "lon": "29.6247173"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Shadow",
+        "Water",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:13:42.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Start point of Kaş"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1914116",
+        "lon": "29.6529398"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:18:08.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Ancient Tomb Ruins"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.174053",
+        "lon": "29.651302"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:19:49.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Viewpoint"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 18,
+        "name": "Photography & Scenic Viewpoints"
+      },
+      "coordinates": {
+        "lat": "36.174346",
+        "lon": "29.651329"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:27:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Limanağzı Beach"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1724438",
+        "lon": "29.6500377"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Accomodation",
+        "Food",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:29:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Çoban Beach"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1541132",
+        "lon": "29.6564411"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:30:16.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "Ufakdere Beach"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1531330",
+        "lon": "29.6785304"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "No Signal"
+      ],
+      "resources": [
+        "Accomodation",
+        "Food",
+        "Water",
+        "Shadow",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:32:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 23,
+      "title": {
+        "en": "Üzüm Pier"
+      },
+      "segment": {
+        "id": 23,
+        "name": "Ufakdere Bay - Üzümlü Pier"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.1561005",
+        "lon": "29.7129562"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:36:41.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 22,
+      "title": {
+        "en": "End point of Ufakdere"
+      },
+      "segment": {
+        "id": 22,
+        "name": "Kaş - Ufakdere Bay"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1520514",
+        "lon": "29.6783138"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:38:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 23,
+      "title": {
+        "en": "End point of Üzüm Pier"
+      },
+      "segment": {
+        "id": 23,
+        "name": "Ufakdere Bay - Üzümlü Pier"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1562326",
+        "lon": "29.7129623"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:40:40.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 23,
+      "title": {
+        "en": "Habesa Bungalov Hotel"
+      },
+      "segment": {
+        "id": 23,
+        "name": "Ufakdere Bay - Üzümlü Pier"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.1599821",
+        "lon": "29.7092173"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Water",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:42:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 24,
+      "title": {
+        "en": "Start point of Üzümlü Pier"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.16014",
+        "lon": "29.709154"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:48:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 24,
+      "title": {
+        "en": "Lykia Camping & Cafe"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.1871571",
+        "lon": "29.7500730"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Water",
+        "Shadow",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:54:10.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 24,
+      "title": {
+        "en": "Ali's House Camp & Pension"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.1928083",
+        "lon": "29.7533453"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T11:56:10.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 24,
+      "title": {
+        "en": "Apollonia Ancient City"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1865444",
+        "lon": "29.7635565"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T11:58:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 24,
+      "title": {
+        "en": "End point of Boğazcık"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1924788",
+        "lon": "29.7535059"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T12:48:30.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 25,
+      "title": {
+        "en": "Start point of Boğazcık"
+      },
+      "segment": {
+        "id": 25,
+        "name": "Boğazcık - Aperlai"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.190784",
+        "lon": "29.753416"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T12:50:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 25,
+      "title": {
+        "en": "Sunken City of Aperlai"
+      },
+      "segment": {
+        "id": 25,
+        "name": "Boğazcık - Aperlai"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.159113",
+        "lon": "29.786686"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T12:54:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 25,
+      "title": {
+        "en": "Aperlai Ancient City"
+      },
+      "segment": {
+        "id": 25,
+        "name": "Boğazcık - Aperlai"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.1597160",
+        "lon": "29.7808342"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T12:57:30.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 25,
+      "title": {
+        "en": "Aperlai Restaurant & Pansiyon"
+      },
+      "segment": {
+        "id": 25,
+        "name": "Boğazcık - Aperlai"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.1632271",
+        "lon": "29.8003292"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Accomodation",
+        "Shadow",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T12:59:48.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 25,
+      "title": {
+        "en": "Yörük Ramazan Restaurant"
+      },
+      "segment": {
+        "id": 25,
+        "name": "Boğazcık - Aperlai"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.1638204",
+        "lon": "29.8007681"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T13:02:25.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 26,
+      "title": {
+        "en": "End point of Kaleüçağız"
+      },
+      "segment": {
+        "id": 26,
+        "name": "Aperlai - Kaleüçağız"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.196524",
+        "lon": "29.844745"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T13:05:54.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 26,
+      "title": {
+        "en": "Kekova Pension"
+      },
+      "segment": {
+        "id": 26,
+        "name": "Aperlai - Kaleüçağız"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.196775",
+        "lon": "29.845515"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Food",
+        "Water",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T13:09:16.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 27,
+      "title": {
+        "en": "Kekova Boat Tour"
+      },
+      "segment": {
+        "id": 27,
+        "name": "Kaleüçağız - Kekova"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.1965447",
+        "lon": "29.8466966"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Toilets",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T13:15:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 27,
+      "title": {
+        "en": "Kayaking tour "
+      },
+      "segment": {
+        "id": 27,
+        "name": "Kaleüçağız - Kekova"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.196741",
+        "lon": "29.846647"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T13:17:46.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 21,
+      "title": {
+        "en": "Scubadiving in Kaş"
+      },
+      "segment": {
+        "id": 21,
+        "name": "Çukurbağ - Kaş"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.1985092",
+        "lon": "29.6403505"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T13:20:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 28,
+      "title": {
+        "en": "Start point of Kaleüçağız"
+      },
+      "segment": {
+        "id": 28,
+        "name": "Kekova - Kapaklı"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.1978604",
+        "lon": "29.8489013"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T13:21:53.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 28,
+      "title": {
+        "en": "Smugglers Inn Cafe & Restaurant"
+      },
+      "segment": {
+        "id": 28,
+        "name": "Kekova - Kapaklı"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2052380",
+        "lon": "29.8909758"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Food",
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T13:59:51.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 28,
+      "title": {
+        "en": "Şenay Cafe & Pension"
+      },
+      "segment": {
+        "id": 28,
+        "name": "Kekova - Kapaklı"
+      },
+      "category": {
+        "id": 8,
+        "name": "Restaurants & Local Cuisine"
+      },
+      "coordinates": {
+        "lat": "36.2299752",
+        "lon": "29.8951316"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Toilets",
+        "Water",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:02:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "Çağıllı Beach"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2337417",
+        "lon": "29.9219147"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:04:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "Çayağzı Beach"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2282178",
+        "lon": "29.9425178"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:06:31.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "Canoe tour"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.230737",
+        "lon": "29.939419"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:08:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "End point of Çayağzı(Demre)"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.23066",
+        "lon": "29.939394"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:10:17.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 29,
+      "title": {
+        "en": "Dufa Bungalov"
+      },
+      "segment": {
+        "id": 29,
+        "name": "Kapaklı - Demre Çayağzı"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2297735",
+        "lon": "29.9929732"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Food",
+        "Water",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:12:23.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 32,
+      "title": {
+        "en": "End point of Alakilise"
+      },
+      "segment": {
+        "id": 32,
+        "name": "Belören - Alakilise"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3332897",
+        "lon": "30.0039575"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [
+        "Dangerous Path"
+      ],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:19:05.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 33,
+      "title": {
+        "en": "Yatıkardıç Plateau"
+      },
+      "segment": {
+        "id": 33,
+        "name": "Alakilise - Yatıkardıç Plateau"
+      },
+      "category": {
+        "id": 15,
+        "name": "Eco‑Tourism Spots"
+      },
+      "coordinates": {
+        "lat": "36.3246619",
+        "lon": "30.0625195"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:28:42.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 34,
+      "title": {
+        "en": "End point of Finike"
+      },
+      "segment": {
+        "id": 34,
+        "name": "Yatıkardıç Plateau - Finike"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2974995",
+        "lon": "30.1459074"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Shadow",
+        "Food",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:32:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 33,
+      "title": {
+        "en": "Start point of Alakilise"
+      },
+      "segment": {
+        "id": 33,
+        "name": "Alakilise - Yatıkardıç Plateau"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.335086",
+        "lon": "30.006934"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:33:16.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 35,
+      "title": {
+        "en": "Esperanza Boutique Hotel of Lykia"
+      },
+      "segment": {
+        "id": 35,
+        "name": "Finike - Karaöz"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2836824",
+        "lon": "30.4082438"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:35:20.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 36,
+      "title": {
+        "en": "Start point of Karaöz"
+      },
+      "segment": {
+        "id": 36,
+        "name": "Karaöz - Gelidonya"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.2731170",
+        "lon": "30.4106773"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:38:06.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 35,
+      "title": {
+        "en": "Lighthouse Camping"
+      },
+      "segment": {
+        "id": 35,
+        "name": "Finike - Karaöz"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2514636",
+        "lon": "30.4070231"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Accomodation",
+        "Water",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:40:46.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 35,
+      "title": {
+        "en": "SunSea Karaöz - Sülo Palas Camping & Bungalov"
+      },
+      "segment": {
+        "id": 35,
+        "name": "Finike - Karaöz"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2729667",
+        "lon": "30.4108064"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Accomodation",
+        "Food",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:42:15.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "End point of Adrasan"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.3051190",
+        "lon": "30.4650708"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Food",
+        "Shadow",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:44:40.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 35,
+      "title": {
+        "en": "Karaöz Beach"
+      },
+      "segment": {
+        "id": 35,
+        "name": "Finike - Karaöz"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.2743987",
+        "lon": "30.4089208"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T14:50:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "Adrasan Beach"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.3053189",
+        "lon": "30.4654336"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Food",
+        "Toilets",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:50:47.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "Jungle Bungalows & Camping"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.2928884",
+        "lon": "30.4632529"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Toilets",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:52:19.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "Portakal Bahçesi Bungalov"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3110395",
+        "lon": "30.4615115"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Food",
+        "Accomodation",
+        "Shadow",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:53:52.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 37,
+      "title": {
+        "en": "Likya Adrasan Hotel"
+      },
+      "segment": {
+        "id": 37,
+        "name": "Gelidonya - Adrasan"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.3146027",
+        "lon": "30.4612929"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Water",
+        "Accomodation",
+        "Food",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:55:10.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 39,
+      "title": {
+        "en": "End point of Çıralı"
+      },
+      "segment": {
+        "id": 39,
+        "name": "Olimpos - Çıralı"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.4143033",
+        "lon": "30.4818376"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T14:58:29.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 39,
+      "title": {
+        "en": "Çıralı Chimera Camping & Bungalow"
+      },
+      "segment": {
+        "id": 39,
+        "name": "Olimpos - Çıralı"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.4144490",
+        "lon": "30.4801864"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Water",
+        "Food",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:01:38.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "End Point of Tekirova"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.4905098",
+        "lon": "30.5216168"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:05:43.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Premium park apart otel"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5069761",
+        "lon": "30.5202023"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow",
+        "Accomodation",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:11:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Millennium Hotel"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.5019602",
+        "lon": "30.5252415"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Food",
+        "Accomodation",
+        "Shadow",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:12:41.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 41,
+      "title": {
+        "en": "End point of Kuzdere"
+      },
+      "segment": {
+        "id": 41,
+        "name": "Tekirova-Kuzdere"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.5786708",
+        "lon": "30.5275515"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:15:39.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Start point of Kuzdere-Roman Bridge"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.5899715",
+        "lon": "30.5137857"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:17:49.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Likya Yolu Doğa Camping & Bungalov"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.6743587",
+        "lon": "30.4634273"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Shadow",
+        "Food",
+        "Toilets",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:19:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Nadir’s House"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.6678727",
+        "lon": "30.4557082"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Food",
+        "Shadow",
+        "Accomodation"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:21:52.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "End point of Göynük Plateau"
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.6666303",
+        "lon": "30.4552184"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:22:55.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Start point of Göynük Plateau"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.6678450",
+        "lon": "30.4557176"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:24:28.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "End point of Göynük Canyon"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.6827998",
+        "lon": "30.5308600"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:27:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 44,
+      "title": {
+        "en": "Start point of Göynük Canyon"
+      },
+      "segment": {
+        "id": 44,
+        "name": "Göynük Canyon-Hisarçandır"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.683349",
+        "lon": "30.527784"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Toilets",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:28:33.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 44,
+      "title": {
+        "en": "End point of Hisarçandır"
+      },
+      "segment": {
+        "id": 44,
+        "name": "Göynük Canyon-Hisarçandır"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.7672727",
+        "lon": "30.4593517"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:32:01.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 44,
+      "title": {
+        "en": "Guesthouse "
+      },
+      "segment": {
+        "id": 44,
+        "name": "Göynük Canyon-Hisarçandır"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.7696153",
+        "lon": "30.4648663"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:33:39.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 44,
+      "title": {
+        "en": "Hisarçandır Hotel"
+      },
+      "segment": {
+        "id": 44,
+        "name": "Göynük Canyon-Hisarçandır"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.7672048",
+        "lon": "30.4614961"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:35:07.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "Start point of Hisarçandır"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 25,
+        "name": "Start of Segment"
+      },
+      "coordinates": {
+        "lat": "36.773366",
+        "lon": "30.459152"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:36:31.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Göynük Canyon"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 15,
+        "name": "Eco‑Tourism Spots"
+      },
+      "coordinates": {
+        "lat": "36.6825330",
+        "lon": "30.5322642"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:37:24.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Zipline & Canyoning (Body Rafting)"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.6825330",
+        "lon": "30.5322642"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow",
+        "Water",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:38:58.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "End point of Geyikbayırı"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 26,
+        "name": "End of Segment"
+      },
+      "coordinates": {
+        "lat": "36.87239",
+        "lon": "30.481069"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Accomodation",
+        "Toilets",
+        "Food",
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:42:00.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "Josito Camping & Bungalov"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 7,
+        "name": "Accommodation & Camping Sites"
+      },
+      "coordinates": {
+        "lat": "36.8741566",
+        "lon": "30.4835321"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Accomodation",
+        "Shadow",
+        "Food",
+        "Toilets"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:46:02.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "Trebenna Ancient City"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.8648491",
+        "lon": "30.4753038"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T15:52:15.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 46,
+      "title": {
+        "en": "Rock climbing"
+      },
+      "segment": {
+        "id": 46,
+        "name": "Hisarçandır-Geyikbayırı"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.8735953",
+        "lon": "30.4860859"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T15:56:08.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Boat Tour"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.5445481",
+        "lon": "29.1237758"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Food",
+        "Water"
+      ],
+      "timestamp_of_creation": "2025-12-10T16:00:59.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Scubadiving"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.5450771",
+        "lon": "29.1230403"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Toilets",
+        "Shadow",
+        "Water",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T16:02:20.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Sign"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 19,
+        "name": "Regulations & Permits"
+      },
+      "coordinates": {
+        "lat": "36.679901",
+        "lon": "30.527727"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T16:05:04.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 43,
+      "title": {
+        "en": "Sign"
+      },
+      "segment": {
+        "id": 43,
+        "name": "Göynük Plateau-Göynük Canyon"
+      },
+      "category": {
+        "id": 19,
+        "name": "Regulations & Permits"
+      },
+      "coordinates": {
+        "lat": "36.683292",
+        "lon": "30.528898"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-10T16:06:21.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Paraglading"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 12,
+        "name": "Outdoor Activities"
+      },
+      "coordinates": {
+        "lat": "36.5470025",
+        "lon": "29.1220009"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-10T16:40:40.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 42,
+      "title": {
+        "en": "Mosque of Göynük Plateau "
+      },
+      "segment": {
+        "id": 42,
+        "name": "Roman Bridge-Göynük Plateau"
+      },
+      "category": {
+        "id": 14,
+        "name": "Emergency & Safety Points"
+      },
+      "coordinates": {
+        "lat": "36.656632",
+        "lon": "30.457562"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2025-12-16T10:27:22.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 40,
+      "title": {
+        "en": "Sign about Caretta caretta"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 11,
+        "name": "Flora & Fauna"
+      },
+      "coordinates": {
+        "lat": "36.438886",
+        "lon": "30.488196"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2025-12-16T10:58:08.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Kayaköy (Ghost town)"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 3,
+        "name": "Ancient Cities & Archaeological Sites"
+      },
+      "coordinates": {
+        "lat": "36.575049",
+        "lon": "29.091024"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2025,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-24T12:52:44.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 4,
+      "title": {
+        "en": "Butterfly Valley"
+      },
+      "segment": {
+        "id": 4,
+        "name": "Kirme - Faralya"
+      },
+      "category": {
+        "id": 15,
+        "name": "Eco‑Tourism Spots"
+      },
+      "coordinates": {
+        "lat": "36.496526",
+        "lon": "29.13805"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2025,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-24T12:57:56.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 3,
+      "title": {
+        "en": "Ölüdeniz Natural Park & Blue Lagoon"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "36.550324",
+        "lon": "29.116118"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2025,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Food"
+      ],
+      "timestamp_of_creation": "2025-12-24T13:07:04.000Z",
+      "contributor": "Artemis Outdoor"
+    }
+  ]
+}

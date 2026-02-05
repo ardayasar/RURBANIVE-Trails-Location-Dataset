@@ -1,0 +1,7 @@
+.env
+/node_modules
+.DS_Store
+/data/stories.json
+data_exporter.js
+package-lock.json
+package.json
