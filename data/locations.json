@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-02-05T14:44:00.850Z",
+  "last_updated": "2026-02-15T11:53:17.487Z",
   "license": "CC-BY-SA-4.0",
   "repository": "https://github.com/trail-project/stories",
   "locations": [
     {
-      "location_id": 3,
+      "location_id": 22,
       "title": {
         "en": "Sightseeing of Ölüdeniz"
       },
@@ -33,7 +33,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 27,
       "title": {
         "en": "Fountain"
       },
@@ -66,7 +66,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 28,
       "title": {
         "en": "Turnout"
       },
@@ -94,7 +94,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 29,
       "title": {
         "en": "Start of parkour and sightseeing "
       },
@@ -122,7 +122,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 30,
       "title": {
         "en": "Sightseeing of Ölüdeniz"
       },
@@ -150,7 +150,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 31,
       "title": {
         "en": "Left "
       },
@@ -178,7 +178,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 32,
       "title": {
         "en": "Start point of Lycian way"
       },
@@ -198,7 +198,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -208,7 +210,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 33,
       "title": {
         "en": "Montenegro hotel"
       },
@@ -242,7 +244,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 34,
       "title": {
         "en": "Left"
       },
@@ -274,7 +276,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 35,
       "title": {
         "en": "Left"
       },
@@ -306,7 +308,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 36,
       "title": {
         "en": "Faralya Misafir Evi (hotel)"
       },
@@ -340,7 +342,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 37,
       "title": {
         "en": "Down"
       },
@@ -370,7 +372,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 39,
       "title": {
         "en": "Faralya"
       },
@@ -404,7 +406,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 40,
       "title": {
         "en": "Left "
       },
@@ -432,7 +434,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 41,
       "title": {
         "en": "Straight"
       },
@@ -460,7 +462,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 42,
       "title": {
         "en": "Right down"
       },
@@ -490,7 +492,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 44,
       "title": {
         "en": "Straight"
       },
@@ -518,7 +520,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 45,
       "title": {
         "en": "Straight"
       },
@@ -546,7 +548,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 46,
       "title": {
         "en": "Right "
       },
@@ -574,7 +576,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 47,
       "title": {
         "en": "Right"
       },
@@ -602,7 +604,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 48,
       "title": {
         "en": "Right down"
       },
@@ -630,7 +632,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 49,
       "title": {
         "en": "Straight"
       },
@@ -662,7 +664,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 50,
       "title": {
         "en": "Kabak Beach "
       },
@@ -694,7 +696,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 51,
       "title": {
         "en": "Market, toilet and shower"
       },
@@ -726,7 +728,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 55,
       "title": {
         "en": "Start Point of Ge(Yediburunlar)"
       },
@@ -754,7 +756,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 56,
       "title": {
         "en": "Ge Market, Camping, Pansion"
       },
@@ -788,7 +790,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 57,
       "title": {
         "en": "Left"
       },
@@ -816,7 +818,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 58,
       "title": {
         "en": "Be careful"
       },
@@ -847,7 +849,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 59,
       "title": {
         "en": "Left"
       },
@@ -875,7 +877,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 60,
       "title": {
         "en": "Right "
       },
@@ -903,7 +905,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 61,
       "title": {
         "en": "Straight"
       },
@@ -931,7 +933,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 62,
       "title": {
         "en": "Sütleğen plant"
       },
@@ -951,7 +953,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "As you walk along the path, slow your pace when you see the plant with yellowish-green flowers smiling at the sun and thick, fleshy leaves. This is the Euphorbia, one of nature's most beautiful yet dangerous players. It gets its name from the milk-like white fluid that flows through its veins when the stem is broken. But be warned: this innocent-looking liquid is one of nature's most interesting and harsh defense mechanisms; it is a skin irritant and strictly poisonous.  In Anatolian folklore, this dangerous balance is no accident. Oral traditions link the Euphorbia to the wisdom of Lokman Hekim, a legendary healer who warned that medicine and poison often walk hand in hand. In these stories, the plant is a teacher of measure. It offers a cure to those who understand its secrets, but causes harm to those who ignore its power. Much like the warning to ‘‘look but don't touch,’’ it reminds us that healing requires deep respect. History shows that this power was recognized long before these legends; the Hittites even used the Euphorbia in ancient magical rituals, drawing on its potent nature to bridge the gap between the physical and spiritual worlds. \r\nImagine the fishermen living on these shores in ancient times; they would pour the sap of this plant into stagnant waters to stun the fish, turning nature's poison into a weapon for hunting. Among the people, this practice reinforced the plant’s reputation as a “boundary plant,” used to demonstrate where human intervention must stop and caution must begin. Yet, Euphorbia is not just a poison, but also a potential cure. Today, in the quiet of laboratories, modern medicine uses the powerful chemicals within this plant for cancer and virus research, offering hope to humanity. Defying the scorching heat of the Mediterranean, this resilient plant is a beauty that carries nature’s warning: 'look but don't touch'. Watch it sway in the wind and appreciate its beauty, but it is best to greet it respectfully from a distance without making contact.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -959,7 +963,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 63,
       "title": {
         "en": "Pıynar Oak"
       },
@@ -979,7 +983,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Those hard, sun-darkened, evergreen leaves above your head belong to the true and ancient owner of this region: the Holm Oak. This tree is a jewel endemic to the Mediterranean; meaning, it is seen in such density only in southwest Turkey and on the island of Rhodes across the water. In the living oral cultures of the Mediterranean and Anatolia, such enduring trees are not merely plants but witnesses, living beings believed to remember what humans forget. Oaks, known locally as pelit or meşe, appear in folk riddles, proverbs, and rural beliefs as symbols of endurance, guardianship, and silent strength rather than as named species. With a structure that has defied heat, drought, and harsh winds for centuries, it acts like steel armor protecting the soil against erosion. If you reach out and touch its trunk, the hardness you feel is its unyielding character. Across Anatolia, touching an old oak is not only a physical act but also a gesture of respect — a way of acknowledging a being older than villages, paths, and borders. Such trees often mark resting places, meeting points, or quiet thresholds along traditional routes.Its wood is so solid and dense that throughout history, it has been the backbone of ships sailing these waters, used in piers, and for producing the highest quality charcoal. Living heritage remembers this strength well: acorns (palamut) appear in riddles and sayings as small but powerful forms, hinting that what looks modest may carry great resilience inside. Look closely at the edges of its leaves; that spiny structure is a survival art developed over millions of years to prevent the loss of precious water. This tree, in whose shadow you take shelter to wipe your brow during your walk, is the most loyal, silent, and strong guardian of the Lycian geography.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -987,7 +993,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 10,
+      "location_id": 64,
       "title": {
         "en": "Left"
       },
@@ -1015,7 +1021,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 10,
+      "location_id": 65,
       "title": {
         "en": "Left"
       },
@@ -1043,7 +1049,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 66,
       "title": {
         "en": "Fatma Pansion & Camping"
       },
@@ -1077,7 +1083,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 67,
       "title": {
         "en": "Market "
       },
@@ -1110,7 +1116,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 68,
       "title": {
         "en": "Gül Market & Pension"
       },
@@ -1144,7 +1150,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 69,
       "title": {
         "en": "Kelebek restaurant "
       },
@@ -1177,7 +1183,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 70,
       "title": {
         "en": "Bus station"
       },
@@ -1205,7 +1211,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 71,
       "title": {
         "en": "Fountain"
       },
@@ -1236,7 +1242,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 72,
       "title": {
         "en": "Sightseeing of Kelebekler Vadisi"
       },
@@ -1256,7 +1262,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -1264,7 +1272,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 73,
       "title": {
         "en": "Scots pine / sarı çam (Pinus sylvestris L.)"
       },
@@ -1284,7 +1292,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Have you noticed that as your steps carry you higher, the forest air changes, and the scent filling your lungs becomes sharper and cooler?. You are now the guest of the forest's nobility, the Scots Pines. Look carefully at the upper parts of its trunk; it is named for that unique color turning to orange and yellow, as if the evening sun has been trapped there. Unlike the Red Pine, this tree loves higher, cooler, windier, and harsher climates. For a very long time, people living in these lands noticed that this tree carried more than strength. Its resin, tar, and scent were used to tend wounds, soothe aching joints, and ease winter coughs. Even its smoke was trusted, rising slowly to clear the air and bring a sense of calm to both body and mind. When you lift your head and look at the sky, you will see its branches extending at wide angles, as if wanting to embrace someone. This aesthetic stance is actually an engineering marvel developed to carry the heavy snow load that will fall upon it in winter. Standing firm against storms and snow, the Scots Pine came to be seen as a quiet protector. Pine cones, branches, or a trace of resin were sometimes kept close, not out of superstition, but from a simple belief that what endures hardship can also offer protection. Scots Pines do not just provide shade for your tired body; they are massive, living filters that clean the atmosphere. Now stop and take a deep breath; that freshness and healing filling your lungs is the Scots Pine's gift to you. That same relationship with healing also found its way into everyday life. In many parts of Anatolia, young pine cones were slowly transformed into a dark, fragrant molasses, taken especially in winter for tired lungs and lingering coughs. It was not only food, but a small reminder that the forest knows how to care for those who listen. If you are lucky and quiet enough, you might even see bird species unique to the region and squirrels jumping from branch to branch.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -1294,7 +1304,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 74,
       "title": {
         "en": "Kabak Bus station (just for kabak village, no available for some"
       },
@@ -1324,7 +1334,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 75,
       "title": {
         "en": "Kabak Misafir Evi Hotel & Restaurant"
       },
@@ -1358,7 +1368,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 76,
       "title": {
         "en": "Ottoman cistern"
       },
@@ -1378,7 +1388,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Ottoman Cistern (Osmanlı Sarnıcı)\r\n(Estimated Duration: 85-95 Seconds)\r\n\"This white, domed stone structure appearing by the roadside, resisting the wear and tear of time, may look like simple architecture at first glance. However, these stones have saved countless lives over the centuries. This is an Ottoman Cistern. In this harsh geography where the summer heat is scorching, where the sky may not drop a single tear of rain for months, and water sources dry up; these structures collected and stored winter rainwater like a treasure, serving as the only source of life for travelers and animals. In Anatolia, tangible, intangible, and natural heritage are interwoven like the colors of an ebru marbling artwork. That is why, along this road, you may suddenly encounter a structure that rises from the depths of history and speaks to you of the present day. This cistern is one of those very encounters. Its domed structure is not random; this form prevents the evaporation of the water inside and keeps it ice-cold even on the hottest days. If you peek inside into the darkness, you can still see the troughs at the water's edge and the careful stonemasonry. Who hasn't passed through here in history? Tired caravans, soldiers on campaigns, shepherds grazing their flocks, and now you, the modern travelers.... The only thing that has changed at this water source for centuries is the clothes and languages of those bending down to drink. This cistern is a silent, dignified monument to civilization's difficult test with water and the culture of cooperation in these lands.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -1386,7 +1398,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 77,
       "title": {
         "en": "Olive tree"
       },
@@ -1406,7 +1418,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Standing before you, with roots reaching deep into the earth and branches stretching to the sky, is the 'Immortal Tree' cherished by all Mediterranean civilizations. We are speaking of the olive tree. Notice the deep cracks and knotted twists in its trunk. Perhaps this very tree witnessed the footsteps of Roman soldiers passing by centuries ago or a nomad migration. In the ancient world, the olive was not just food; it was the sacred symbol of peace, abundance, and wisdom. In fact, in Homer's epics, olive oil was called 'liquid gold'.\r\nIts ability to stubbornly take root and bear fruit even in the most infertile, stony, and barren soils is the greatest proof of its passion for life. It gives fruit generously for centuries, and even if its trunk rots, burns, or is cut, it is reborn from its roots with a fresh sprout; this is why it is called immortal. Recognizing the urgency of safeguarding this ancient immortal knowledge, Türkiye’s traditional knowledge, methods and practices concerning olive cultivation were inscribed in 2023 on the UNESCO 2003 Convention’s List of Intangible Cultural Heritage in Need of Urgent Safeguarding. This inscription affirms that the olive is not merely a tree or an agricultural product, but a living heritage shaped and sustained through traditional knowledge, communal practices, and intergenerational transmission. In Anatolia, the olive lives not only in the soil but in ritual, song, and legend. Harvest chants echo at dawn among the groves, stories are told of sacred trees blessed by earth and sky, and collective rituals turn labor into shared meaning. Through these practices, the olive becomes a bearer of memory and continuity, binding land, people, and time into a living cultural rhythm. These silvery-leaved friends that accompany you along the Lycian Way, waving in the wind, are the oldest and wisest inhabitants of these lands. Look at them not just as trees, but as living witnesses of history.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -1416,7 +1430,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 78,
       "title": {
         "en": "Kadir’in Yeri "
       },
@@ -1449,7 +1463,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 10,
+      "location_id": 79,
       "title": {
         "en": "Zeynep Ablanın yeri (restaurant)"
       },
@@ -1482,7 +1496,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 80,
       "title": {
         "en": "Fountain"
       },
@@ -1512,7 +1526,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 81,
       "title": {
         "en": "Fountain"
       },
@@ -1542,7 +1556,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 82,
       "title": {
         "en": "Fountain, Toilet, Market "
       },
@@ -1574,7 +1588,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 83,
       "title": {
         "en": "Signage"
       },
@@ -1602,7 +1616,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 84,
       "title": {
         "en": "Left"
       },
@@ -1630,7 +1644,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 85,
       "title": {
         "en": "Right"
       },
@@ -1658,7 +1672,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 86,
       "title": {
         "en": "Tradational grain silos"
       },
@@ -1678,7 +1692,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "These wooden structures you see in village settlements or by the roadside, raised above the ground as if on stork legs, are the region's famous 'Grain Granaries'. Look a little closer at these structures; you will see that not a single metal nail was used in their construction. The wood has been fastened together with centuries of craftsmanship, using an interlocking technique, with great patience. But why are they so high off the ground? The reason is to protect the precious product inside from the soil's moisture, rodents, and insects.\r\nThese granaries were the safest vaults where a family stored their entire year's labor, their sweat—their wheat, their barley—in short, their guarantee of survival through the winter. For this very reason, granaries were never perceived as ordinary storage spaces in Anatolia, but as places of trust, responsibility, and continuity between generations. In many parts of Anatolia, a granary was entered for the first time each year by a person known for having a content heart and generous spirit, with the belief that abundance follows those who are not driven by greed. Likewise, the henna of a bride was placed inside the granary so that prosperity, fertility, and continuity would settle into the household. These practices reveal that the granary was not only a physical structure, but also a symbolic threshold where material sustenance and moral values met.\r\nThis architectural tradition, reaching from Lycia to the Seljuks and down to the present day, is the wooden embodiment of the practical intelligence Anatolian people developed against hardships. Today, these structures continue to offer powerful clues about the relationship between living heritage and sustainable development: local materials, climate-sensitive design, zero-waste construction techniques, and intergenerational knowledge transfer.With the faint scent of cedar wood you smell when you approach and the warmth of the timber, these granaries still stand as symbols of abundance in an agricultural society. As living heritage elements, they remind us that sustainability is not a modern invention, but a wisdom long embedded in everyday life. They are the warehouses of the past and the cultural heritage of today.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -1688,7 +1704,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 87,
       "title": {
         "en": "Signage"
       },
@@ -1716,7 +1732,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 16,
+      "location_id": 88,
       "title": {
         "en": "Topçam "
       },
@@ -1744,7 +1760,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 16,
+      "location_id": 89,
       "title": {
         "en": "Signage"
       },
@@ -1774,7 +1790,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 18,
+      "location_id": 93,
       "title": {
         "en": "Water in spring time & Shelter"
       },
@@ -1807,7 +1823,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 18,
+      "location_id": 94,
       "title": {
         "en": "Water in spring time & Shelter"
       },
@@ -1840,7 +1856,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 31,
+      "location_id": 95,
       "title": {
         "en": "Signage"
       },
@@ -1868,7 +1884,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 31,
+      "location_id": 96,
       "title": {
         "en": "Start point of Demre"
       },
@@ -1896,7 +1912,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 31,
+      "location_id": 97,
       "title": {
         "en": "House for food"
       },
@@ -1929,7 +1945,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 31,
+      "location_id": 98,
       "title": {
         "en": "Tombs "
       },
@@ -1959,7 +1975,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 31,
+      "location_id": 99,
       "title": {
         "en": "Bank, rest place, no water"
       },
@@ -1989,7 +2005,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 32,
+      "location_id": 100,
       "title": {
         "en": "Mosque"
       },
@@ -2017,7 +2033,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 33,
+      "location_id": 101,
       "title": {
         "en": "Rock & soil mix"
       },
@@ -2047,7 +2063,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 34,
+      "location_id": 102,
       "title": {
         "en": "Free Camping area"
       },
@@ -2075,7 +2091,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 103,
       "title": {
         "en": "Camping"
       },
@@ -2109,7 +2125,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 33,
+      "location_id": 104,
       "title": {
         "en": "Kekik (origanum)"
       },
@@ -2129,7 +2145,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Do you catch that sharp, spicy, and refreshing scent spreading into the air with every step as your trousers brush against the bushes?. Stop and take a deep breath. This is the signature of the Mediterranean, the perfume of the mountains: Thyme. This humble plant, which especially loves rocky, sunny slopes, has been the flavor of Lycian cuisine and the indispensable cure of folk medicine for thousands of years. In Anatolia, this strong scent has also been understood as a form of protection; aromatic plants like thyme are believed to ward off illness and negative forces, which is why they have long been burned, carried, or brewed during moments of healing, transition, and travel. In antiquity, warriors would bathe in thyme before battle to fortify their spirit, and rely on its potent antiseptic qualities to cleanse and heal their wounds.Today, it is the main ingredient of that famous mountain tea that takes away your tiredness. This knowledge is not confined to the past: thyme is still widely used in Anatolian folk medicine for respiratory problems, digestive complaints, and general weakness, with recipes and practices transmitted orally within families, especially in rural communities, as part of living heritage. Now, lean down and gently touch a branch, rub your fingers together, and smell it; this scent stimulates your brain, clears your tired mind, and gives you fresh energy to continue the road. At the same time, thyme supports local livelihoods: its careful gathering, drying, and sale provide seasonal income for many households, particularly women and elderly family members, strengthening family economies while sustaining traditional ecological knowledge.You are right in the middle of a natural aromatherapy session offered to you by nature for free.\" In this moment, thyme reveals itself not only as a plant, but as a living expression of Anatolia’s intangible cultural heritage where belief, healing, labor, and landscape continue to exist together, alive and in practice.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -2139,7 +2157,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 105,
       "title": {
         "en": "Restaurant "
       },
@@ -2172,7 +2190,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 33,
+      "location_id": 106,
       "title": {
         "en": "Kekik (origanum)"
       },
@@ -2202,7 +2220,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 107,
       "title": {
         "en": "Cafe"
       },
@@ -2234,7 +2252,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 108,
       "title": {
         "en": "Restaurant "
       },
@@ -2267,7 +2285,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 109,
       "title": {
         "en": "Viewpoint"
       },
@@ -2295,7 +2313,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 110,
       "title": {
         "en": "Information"
       },
@@ -2325,7 +2343,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 111,
       "title": {
         "en": "Info and map"
       },
@@ -2353,7 +2371,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 112,
       "title": {
         "en": "Start point "
       },
@@ -2381,7 +2399,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 113,
       "title": {
         "en": "Market"
       },
@@ -2409,7 +2427,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 114,
       "title": {
         "en": "Korsan coast"
       },
@@ -2437,7 +2455,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 115,
       "title": {
         "en": "Maden coast "
       },
@@ -2467,7 +2485,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 116,
       "title": {
         "en": "Signage"
       },
@@ -2497,7 +2515,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 117,
       "title": {
         "en": "Korsan coast"
       },
@@ -2525,7 +2543,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 118,
       "title": {
         "en": "Start point of Tekirova"
       },
@@ -2553,7 +2571,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 119,
       "title": {
         "en": "Asphalt"
       },
@@ -2581,7 +2599,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 120,
       "title": {
         "en": "Sandal tree"
       },
@@ -2609,7 +2627,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 121,
       "title": {
         "en": "Signage"
       },
@@ -2637,7 +2655,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 122,
       "title": {
         "en": "Signage"
       },
@@ -2665,7 +2683,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 123,
       "title": {
         "en": "Information of Flora"
       },
@@ -2693,7 +2711,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 124,
       "title": {
         "en": "Information of Flora"
       },
@@ -2721,7 +2739,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 127,
       "title": {
         "en": "Gelidonya Lighthouse"
       },
@@ -2741,7 +2759,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "The symbol of the Lycian Way, the century-old guide of sailors, and the greatest reward for you hikers: The Gelidonya Lighthouse. At 227 meters above the sea, this point is the highest lighthouse on the Turkish coast. Imagine how it was built in 1936 with great effort, its materials carried on donkey back or by human strength, in an era without electricity. The 'Five Islands' stretching out before you were once a terrifying ship graveyard where currents were dangerous. The lighthouse was erected to be a beacon of hope in these dark waters. \r\nThis is a place completely isolated from civilization, where there is only the sound of the wind and waves. Up here, the wind does not blow gently — it pushes, pulls, and reminds you how exposed this headland truly is.When you reach the lighthouse through the pine trees, the view you see, especially at sunset, will be worth all your fatigue. The sea below looks endless, but from this height you understand how small a ship must feel between rock and current. Standing alone in the endless blue, this lighthouse symbolizes both the sadness of the sea and the hope of reunion. Prepare your cameras, because this frame is the signature of the Lycian Way. There is no shelter here except the light itself.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -2751,7 +2771,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 129,
       "title": {
         "en": "Bank (rest area)"
       },
@@ -2781,7 +2801,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 130,
       "title": {
         "en": "Start point of Çıralı (sea side)"
       },
@@ -2811,7 +2831,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 131,
       "title": {
         "en": "Beach"
       },
@@ -2841,7 +2861,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 132,
       "title": {
         "en": "King’s Bay"
       },
@@ -2873,7 +2893,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 133,
       "title": {
         "en": "Signage"
       },
@@ -2901,7 +2921,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 134,
       "title": {
         "en": "Fountain"
       },
@@ -2932,7 +2952,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 135,
       "title": {
         "en": "Beycikbükü Beach"
       },
@@ -2960,7 +2980,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 136,
       "title": {
         "en": "Fountain & Signage "
       },
@@ -2991,7 +3011,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 137,
       "title": {
         "en": "Tekirova beach "
       },
@@ -3019,7 +3039,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 138,
       "title": {
         "en": "Alda Hotel"
       },
@@ -3053,7 +3073,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 139,
       "title": {
         "en": "Signage"
       },
@@ -3083,7 +3103,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 140,
       "title": {
         "en": "Roman Old Bridge & Restaurant "
       },
@@ -3103,7 +3123,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -3116,7 +3138,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 141,
       "title": {
         "en": "Dangerous path "
       },
@@ -3149,7 +3171,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 142,
       "title": {
         "en": "Tree - Juniperus L. (Ardıç Ağacı)"
       },
@@ -3169,7 +3191,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "When you approach the peaks of the mountains, the harshest conditions where the wind blows hardest, the mystical and durable tree that appears before you, its trunk shaped by the wind, is the Juniper. The story of the juniper tree is the most beautiful example of the immense cooperation in nature. The reproduction of this tree depends on a single bird, the thrush. The bird eats the tree's seed, grinds it in its stomach, and returns it to nature through its droppings; only after this journey can the seed germinate. So, this massive tree and that tiny bird are bound together in a shared destiny.\r\nThe juniper is known not only for its shade but also for its healing berries and the pleasant-smelling resin it spreads around . in old Turkish culture and shamanic traditions, it was believed that juniper smoke drove away evil spirits and cleansed the space. And this belief is not just a distant echo of the past; in some Anatolian villages, people still burn juniper branches as incense when they feel a space has grown heavy, when they move into a new home, or after illness has passed through a household. The rising smoke is believed to carry away the unseen burdens of the place, to restore balance, and to invite calm back inside. In older Turkic traditions, the scent of burning juniper was thought to create a protective circle, marking a boundary between the visible world and the invisible one. Even when different plants began to be used in different regions, the idea remained the same: smoke as a bridge, fragrance as protection, fire as renewal.Its roots are so strong and stubborn that they crack even the hardest rocks to find water and a path. This tree is the living symbol of patience, resistance, and holding onto life even in conditions that seem impossible.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -3179,7 +3203,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 143,
       "title": {
         "en": "Tree - Platanus orientalis (Doğu Çınarı Ağacı)"
       },
@@ -3199,7 +3223,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "If the sound of water reaches your ears, look around well; this great tree welcoming you with its massive trunk, arms opening to the sky, and hand-shaped leaves is the Oriental Plane Tree. Plane trees love water; that is why you always see them by rushing streams, cool springs, or next to fountains in village squares. With its majestic trunk and the broad shade it creates, it is the natural roof and safe harbor for tired travelers, villagers deep in conversation, and children playing joyfully. In Anatolia, the plane tree is not only a natural presence but also a living center of community life. For centuries, village councils have gathered in its shade, elders have offered judgments, and collective decisions shaping daily life have been taken beneath its branches. Many historic plane trees are still protected as cultural landmarks, and some are officially registered as monumental trees, reflecting a living heritage practice of safeguarding nature as memory. Weddings, seasonal festivities, and public announcements have long taken place under the “village plane,” turning its shade into a social and cultural stage. In some regions, people tie pieces of cloth to its branches while making wishes, blending belief, tradition, and communal memory into a single gesture. In Ottoman culture, the plane tree is not just a tree, but a metaphor symbolizing the power, deep roots, and long life of the state. These giants, which can live up to 1000 years, are living witnesses of history that have seen the rise and fall of empires. Take a short break from your walk, sit under this great plane tree, and lean your back against its ancient trunk. The peaceful rustling of its leaves in the wind and the coolness in its shade is the most peaceful moment the Lycian Way offers you.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -3209,7 +3235,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 144,
       "title": {
         "en": "Turnout"
       },
@@ -3237,7 +3263,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 145,
       "title": {
         "en": "Fountain"
       },
@@ -3267,7 +3293,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 146,
       "title": {
         "en": "Viewpoint"
       },
@@ -3295,7 +3321,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 147,
       "title": {
         "en": "Fountain "
       },
@@ -3326,7 +3352,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 148,
       "title": {
         "en": "Ground texture: Soil, some rock, slightly slippery"
       },
@@ -3356,7 +3382,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 44,
+      "location_id": 149,
       "title": {
         "en": "Mountain Pass (Dayısı geçidi)"
       },
@@ -3384,7 +3410,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 18,
+      "location_id": 150,
       "title": {
         "en": "Bushes - Ruscus aculeatus (Kokina)"
       },
@@ -3414,7 +3440,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 151,
       "title": {
         "en": "Sidek & Badem Market"
       },
@@ -3442,7 +3468,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 20,
+      "location_id": 152,
       "title": {
         "en": "Çukurbağ Market"
       },
@@ -3470,7 +3496,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 153,
       "title": {
         "en": "Free Camping Area in Faralya"
       },
@@ -3504,7 +3530,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 154,
       "title": {
         "en": "Free Camping Area in Faralya (without toilet or shower)"
       },
@@ -3535,7 +3561,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 156,
       "title": {
         "en": "Start point of Faralya-1"
       },
@@ -3563,7 +3589,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 6,
+      "location_id": 157,
       "title": {
         "en": "Start point of Kabak village"
       },
@@ -3591,7 +3617,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 5,
+      "location_id": 158,
       "title": {
         "en": "End point of Kabak"
       },
@@ -3619,7 +3645,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 159,
       "title": {
         "en": "Start point of Alınca"
       },
@@ -3647,7 +3673,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 6,
+      "location_id": 160,
       "title": {
         "en": "End point of Alınca"
       },
@@ -3675,7 +3701,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 161,
       "title": {
         "en": "Sun Ocean Motel"
       },
@@ -3709,7 +3735,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 162,
       "title": {
         "en": "Sunset Apart Hotel"
       },
@@ -3743,7 +3769,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 163,
       "title": {
         "en": "Sunset Apart Hotel"
       },
@@ -3777,7 +3803,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 164,
       "title": {
         "en": "The Pine Hill Hotel & Suites"
       },
@@ -3811,7 +3837,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 165,
       "title": {
         "en": "Halil’s cafe"
       },
@@ -3844,7 +3870,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 166,
       "title": {
         "en": "Doğa Cafe"
       },
@@ -3876,7 +3902,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 167,
       "title": {
         "en": "Türkdomes Glamping"
       },
@@ -3910,7 +3936,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 168,
       "title": {
         "en": "Çeti Camping & Cafe"
       },
@@ -3944,7 +3970,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 169,
       "title": {
         "en": "End point of Ge(Yediburunlar)"
       },
@@ -3972,7 +3998,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 170,
       "title": {
         "en": "Yediburunlar Lighthouse Boutique Hotel & Restaurant"
       },
@@ -4006,7 +4032,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 7,
+      "location_id": 171,
       "title": {
         "en": "Yediburunlar Pavlonya Bungalows & Camping"
       },
@@ -4040,7 +4066,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 172,
       "title": {
         "en": "Nasuh Camping & Pansion / Restaurant"
       },
@@ -4074,7 +4100,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 173,
       "title": {
         "en": "Raziye Pension & Camping & Ramazan Market"
       },
@@ -4108,7 +4134,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 8,
+      "location_id": 174,
       "title": {
         "en": "End point of Bel"
       },
@@ -4136,7 +4162,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 9,
+      "location_id": 175,
       "title": {
         "en": "Start point of Bel"
       },
@@ -4164,7 +4190,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 11,
+      "location_id": 176,
       "title": {
         "en": "Likya Garden Life Tiny House & Camping"
       },
@@ -4198,7 +4224,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 11,
+      "location_id": 177,
       "title": {
         "en": "End Point of Patara(Karadere Beach)"
       },
@@ -4226,7 +4252,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 11,
+      "location_id": 178,
       "title": {
         "en": "Karadere Beach "
       },
@@ -4254,7 +4280,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 12,
+      "location_id": 179,
       "title": {
         "en": "Start point of Patara(Karadere Beach)"
       },
@@ -4282,7 +4308,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 12,
+      "location_id": 181,
       "title": {
         "en": "Xanthos Ancient City"
       },
@@ -4302,7 +4328,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "This is Xanthos... The administrative capital of the Lycian League and the greatest witness to its sad history. Touching these stones, you are touching a 'Monument of Honor'. The events historians call the 'Lycian Lament' happened here. When Persian armies besieged the city in 545 BC, the men of Xanthos gathered their families and treasures in the castle and set them on fire; then they fought until the last person died. They chose death over captivity.\r\nThe Harpy Monument and the Lycian pillar tombs you see today symbolize the noble stance of this heroic people. Look at these tombs rising high above the ground; they show how much the Lycians cared about honoring their dead and keeping their memory alive.The inscribed obelisk right next to the theater played a key role in deciphering the Lycian language. Because of this stone, a language that had been silent for centuries could be understood again. Although the Nereid Monument is in London today, its spirit is still here. Xanthos, on the UNESCO World Heritage list, is an epic etched into human history not just with its architecture, but with its passion for freedom.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4314,7 +4342,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 12,
+      "location_id": 182,
       "title": {
         "en": "Letoon Ancient City"
       },
@@ -4334,7 +4362,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Welcome to the spiritual heart of Lycia, the sacred ground of gods: Letoon. This was not an ordinary settlement where people lived, but the common worship center of all Lycian people. According to legend, the Goddess Leto sought refuge here after giving birth to her twins Artemis and Apollo, fleeing Hera's wrath; but when she wanted to drink water, the locals stopped her. Enraged, the goddess punished them by turning them into frogs. Today, if you listen quietly at the sacred water in front of the temples, you can still hear the grandchildren of those frogs.\r\nBefore you, you will see three temples lined up: dedicated to Mother Leto, her daughter Artemis, and her son Apollo. The elegant Hellenistic theater right next to them was used for religious ceremonies where hymns were sung rather than gladiator games. The 'Trilingual Inscription' found here in 1973 played a role as vital as the Rosetta Stone in deciphering the Lycian language. Letoon, on the UNESCO World Heritage List, draws you into the depths of mythology with its deep silence. \r\nIn antiquity, sacred centers like Letoon were not only places of worship but also spaces of gathering, oath-taking, and collective decision-making for the Lycian League. Even today, the quiet presence of water at the site reflects a long-standing Anatolian perception of springs and sacred waters as life-giving and purifying  a cultural memory that continues in various local traditions across the region.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4346,7 +4376,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 11,
+      "location_id": 183,
       "title": {
         "en": "Bus station "
       },
@@ -4376,7 +4406,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 184,
       "title": {
         "en": "Fethiye Bus station "
       },
@@ -4408,7 +4438,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 12,
+      "location_id": 185,
       "title": {
         "en": "Kınık Bus Station"
       },
@@ -4440,7 +4470,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 12,
+      "location_id": 186,
       "title": {
         "en": "End point of Xanthos "
       },
@@ -4468,7 +4498,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 13,
+      "location_id": 187,
       "title": {
         "en": "Patara Ancient City"
       },
@@ -4488,7 +4518,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are at Patara, the magnificent capital of the Lycian League. This is the sacred land where Apollo was born. But Patara is not just mythology; it is the cradle of democracy. In the massive Parliament Building you see, elected representatives of the Lycian League gathered and governed the union. The thinker Montesquieu praised this as 'the most perfect example of a republic in the world'. Although the great harbor is now filled with sand, Patara's story is not over. The world's oldest lighthouse, built by Emperor Nero, has been raised again from under the sands here. After centuries of being buried, the lighthouse was reconstructed in recent years based on original stones and inscriptions discovered during excavations. And of course, St. Nicholas, Santa Claus, opened his eyes to the world in this city. The massive 18-kilometer beach stretching behind the ruins is the unchanging home of Caretta Caretta turtles. Today, sections of this beach are protected during nesting season, when access is carefully regulated to ensure the survival of these ancient marine visitors.  Patara is a true capital that unites the depth of history with the infinity of nature. Here, parliament, port, lighthouse, and shoreline coexist within walking distance a rare landscape where political history and natural cycles unfold side by side.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4496,7 +4528,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 188,
       "title": {
         "en": "Phaselis Ancient City"
       },
@@ -4516,7 +4548,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are at Phaselis, one of history's most beautiful harbor cities, where lush pine forests touch the deep blue sea. This place was established by the Rhodians, the trading geniuses of the ancient age. The city's greatest feature is that it has three separate harbors where ships could dock safely regardless of the wind direction: the North, the War, and the South Harbor. That wide main street you are walking on now was once the beating heart of the city, lined with shops, where scents of incense and rose oil mingled. Did you know that Alexander the Great spent the winter here in 333 BC?. Standing here today, it is easy to imagine that historic moment taking place along this very shoreline. The people of Phaselis welcomed him with a golden crown. Today, you can swim in the sea in the shadow of an ancient aqueduct, rest on the steps of the theater, and swim among the ancient harbor ruins glistening in the water. Phaselis is one of those rare places where history is lived right inside life and the sea, not behind museum glass. Here, the past does not feel distant it feels present, shaped by light, water, and time.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4529,7 +4563,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 13,
+      "location_id": 189,
       "title": {
         "en": "Patara Sand Hills "
       },
@@ -4549,7 +4583,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4557,7 +4593,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 13,
+      "location_id": 190,
       "title": {
         "en": "Patara Beach (Gelemiş)"
       },
@@ -4589,7 +4625,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 191,
       "title": {
         "en": "Olympos Ancient City"
       },
@@ -4609,7 +4645,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "In the valley where the cool waters of the Akçay Stream flow into the sea, you are in the mysterious Olympos, once ruled by pirates. In the 1st century BC, the famous pirate leader Zenicetes used this steep valley as his fortress, spreading fear across the Mediterranean from here. The famous sarcophagus with a ship relief you will see while touring belongs to Captain Eudemos and reads: 'The ship entered the final harbor, anchored never to leave.'.\r\nAs you proceed along the stream through the valley, discovering temple doors hidden in the dense forest, ruined bath remains, and mosaic floors becomes like an adventure. Olympos is not just an ancient city; it is also a modern bohemian paradise with its endemic plants, Caretta Caretta turtles, and treehouse culture. Today, the same shoreline where ancient ships once anchored is also one of the protected nesting areas of the Caretta Caretta, reminding visitors that this landscape continues to hold life in different forms. Here, history has been slowly embraced by nature; look carefully at the columns among the vines, and you will see nature's victory over stone. Stone and root now share the same ground, blurring the line between ruin and forest.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4617,7 +4655,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 38,
+      "location_id": 192,
       "title": {
         "en": "Olympos Beach"
       },
@@ -4645,7 +4683,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 39,
+      "location_id": 193,
       "title": {
         "en": "Chimera National Park "
       },
@@ -4665,7 +4703,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are now at the place where legend becomes reality: Yanartaş. These flames, leaking from the rocks and burning for thousands of years without being extinguished by wind or rain, were known as the breath of the Chimaera monster. According to mythology, the Lycian hero Bellerophon fought this monster on his winged horse Pegasus and buried it seven layers deep underground. The flames you see are the undying rage of that monster still erupting from the earth. Scientifically a natural methane gas leak, these flames served as a natural lighthouse for sailors in ancient times. Their steady glow against the dark coastline would have been visible from afar, guiding ships along these shores.  The night hike here is a ritual; sitting by the dancing flames in pitch darkness is like living inside a mythological tale. As the fire flickers against the stones and the forest falls silent around you, time seems to slow.In this sacred area dedicated to Hephaestus, the God of Fire, do not forget to make a wish while watching the fire's mesmerizing dance. For centuries, visitors have stood before these same flames, witnessing the rare meeting point of geology and mythology.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4673,7 +4713,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 30,
+      "location_id": 194,
       "title": {
         "en": "Myra Ancient City"
       },
@@ -4693,7 +4733,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Welcome to Myra, in the shadow of Lycia's most impressive rock tombs. Look up and watch those tombs carved into the steep cliffs like lace. Lycians believed that the soul would be carried to the sky by winged creatures after death; that is why they buried their loved ones at points closest to the sky. This necropolis is like a massive apartment building built for the dead. Most tombs imitate wooden house architecture; with their beams and doors, they look as if their owners will step out any moment.\r\nJust below, one of the best-preserved and largest Roman theaters of Lycia awaits you. Once, the heart of the city beat on these stone steps filled by 11,000 people. Look carefully at the mask reliefs in the theater; these masters carried Myra's passion for art to the present day. Stand still for a second and listen—the quiet here makes it easy to imagine the distant echo of voices that once filled this space. And remember, this city is also the land where St. Nicholas served as a bishop. His story is still told today, linking this ancient city with traditions remembered far beyond this region.Myra is a unique stop where pagan mystery and Christian mercy intertwine.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4705,7 +4747,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 30,
+      "location_id": 195,
       "title": {
         "en": "The Church of Saint Nicholas"
       },
@@ -4725,7 +4767,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are at one of the holiest stops in the Christian world, right in the center of Demre: The Church of St. Nicholas. St. Nicholas, known to the whole world as 'Santa Claus,' is not a legend but a real historical figure who served as a bishop here in the 4th century and dedicated his life to children and the poor. This church was built after his death and has been flooded by pilgrims seeking miracles for centuries.\r\nLook carefully at the faded but still impressive frescoes on the walls and the floor mosaics; these are the most elegant examples of Byzantine art. The sarcophagus in the south aisle, protected by glass and notable for its fish-scale decorations, is thought to belong to St. Nicholas. Although his bones were stolen by Italian merchants in the 11th century and taken to Bari, the spiritual atmosphere of this place and the merciful legacy of the 'Saint of Demre' remain here.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4738,7 +4782,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 196,
       "title": {
         "en": "Andriake Ancient City"
       },
@@ -4758,7 +4802,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are currently at the Andriake Port, the gateway of Myra to the world. In ancient times, this was one of the busiest centers where ships bustled about. Feel the smell of the sea; centuries ago, the smell of grain from Egypt, wine in amphorae, and most importantly, the heavy smell of 'murex' dye mixed into this air. Andriake was a center for producing royal purple, the most expensive color of the ancient world. This dye, obtained from sea snails, adorned the robes of kings.\r\nThe massive structure standing before you is the Granarium, or grain silo, built in honor of Emperor Hadrian. Tons of wheat meeting the bread needs of the Roman army were stored here. Look closely at its thick walls and long rectangular form; this design helped protect the grain from heat and moisture. As you walk, notice the channels resembling rail tracks on the ground; these are the footprints of ancient crane systems used to load goods onto ships. These traces reveal how organized and active the port once was, with goods constantly arriving, stored, and sent out again.This is a lively port where the history of trade and labor lies.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4770,7 +4816,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 27,
+      "location_id": 197,
       "title": {
         "en": "Kekova Ancient City"
       },
@@ -4790,7 +4836,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4798,7 +4846,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 27,
+      "location_id": 198,
       "title": {
         "en": "Simena Castle"
       },
@@ -4818,7 +4866,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are looking at perhaps the most fairytale-like view on the Lycian Way: Simena. This is where history fought with nature and finally made peace. Climbing that steep path to the castle might take your breath away, but the view at the summit will wipe away all your fatigue. As you rise step by step, the landscape slowly opens behind you, turning the climb itself into part of the experience. Memorize this panorama where Kekova Island stretches out and turquoise waters play with the islands. This was a strategic watchtower, a defense line that was the nightmare of pirates.\r\nInside the castle, you will see the world's smallest theater carved into the rock; this tiny theater for only 300 people proves Simena's boutique nature. ts simple stone seats remind visitors how even small communities created spaces for gathering and performance.And of course, that famous frame... The Lycian sarcophagus standing alone and dignified in the sea below. Earthquakes caused waters to rise, and history slowly sank into the sea. What you see now is part land, part memory, shaped by both nature and time.Today, Simena is a village where time stands still, with its homemade ice cream and stone houses adorned with bougainvillea.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -4832,7 +4882,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 34,
+      "location_id": 199,
       "title": {
         "en": "Limyra Ancient City"
       },
@@ -4852,7 +4902,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "This is Limyra, the 'Water City' of Lycia. While other Lycian cities usually perched on steep cliffs for defense, Limyra was established on the edge of a fertile plain, amidst rushing spring waters. While touring the city, you will notice cool waters constantly flowing under your feet and canals wrapping around the ancient streets. In the 4th century BC, Pericles, Lycia's most brilliant leader, moved the capital here; meaning, the voice of freedom once rose from this wetland.\r\nThe rock-cut tombs mimicking wooden house architecture and the 'Xatabura Monumental Tomb' show the city's artistic power. Also, the Ptolemaion monument built for the Egyptian Queen Arsinoe is proof of how strong the city's international relations were. Limyra, where Roman Emperor Augustus' adopted son Gaius Caesar breathed his last, is a peaceful stop where the murmur of water mixes with the whisper of history. Even today, the presence of water defines the character of this landscape. Springs continue to surface among the ruins, and the sound of flowing water accompanies your walk just as it once accompanied daily life in the ancient city.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4860,7 +4912,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 200,
       "title": {
         "en": "Start point of Patara(Gelemiş) "
       },
@@ -4888,7 +4940,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 13,
+      "location_id": 201,
       "title": {
         "en": "St.Nicholas Pension "
       },
@@ -4922,7 +4974,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 202,
       "title": {
         "en": "Aqueduct Delikkemer"
       },
@@ -4942,7 +4994,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "On the way to Patara, you are looking at one of the most clever engineering solutions in history: Delikkemer. When Roman engineers faced a deep valley while carrying water to the city, they did not give up. At this point where building an arch was impossible, they established the 'inverted siphon' system.\r\nThe center of each of these massive stone blocks you see has been drilled and fitted together with a 'male-female' system. In this way, a leak-proof stone pipeline resistant to water pressure was created. These precisely carved stones show the level of craftsmanship and technical knowledge that ancient builders possessed.The water descends rapidly from one hill and climbs the opposite hill with its own pressure. This system is proof of how advanced hydraulic knowledge was in an age without electricity or modern pumps. Today, this structure still inspires engineers, historians, and travelers, reminding us how human creativity has long worked together with nature rather than against it. Delikkemer is a monument to human intelligence defying nature's obstacles.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -4950,7 +5004,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 203,
       "title": {
         "en": "End point of Kalkan"
       },
@@ -4984,7 +5038,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 204,
       "title": {
         "en": "Payava Hotel by True Blue"
       },
@@ -5018,7 +5072,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 205,
       "title": {
         "en": "Neruda Hotel"
       },
@@ -5051,7 +5105,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 206,
       "title": {
         "en": "Kuşhane Restaurant"
       },
@@ -5084,7 +5138,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 207,
       "title": {
         "en": "Indigo Beach Club & Restaurant"
       },
@@ -5117,7 +5171,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 208,
       "title": {
         "en": "Kalkan Bus Station"
       },
@@ -5150,7 +5204,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 50,
+      "location_id": 209,
       "title": {
         "en": "The Mediteran Hotel"
       },
@@ -5184,7 +5238,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 210,
       "title": {
         "en": "Start point of Kalkan"
       },
@@ -5212,7 +5266,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 211,
       "title": {
         "en": "Pirha Köy Sofrası (restaurant)"
       },
@@ -5246,7 +5300,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 212,
       "title": {
         "en": "Çelik market "
       },
@@ -5277,7 +5331,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 213,
       "title": {
         "en": "Mozaik Pension"
       },
@@ -5311,7 +5365,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 214,
       "title": {
         "en": "Istanbullu Gelin Cafe"
       },
@@ -5344,7 +5398,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 215,
       "title": {
         "en": "Karafil Pension & Camping "
       },
@@ -5378,7 +5432,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 15,
+      "location_id": 216,
       "title": {
         "en": "End point of Sarıbelen"
       },
@@ -5406,7 +5460,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 16,
+      "location_id": 217,
       "title": {
         "en": "Start point of Sarıbelen"
       },
@@ -5434,7 +5488,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 16,
+      "location_id": 218,
       "title": {
         "en": "End point of Gökçeören"
       },
@@ -5464,7 +5518,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 14,
+      "location_id": 219,
       "title": {
         "en": "Kaputaş Beach"
       },
@@ -5484,7 +5538,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -5498,7 +5554,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 16,
+      "location_id": 220,
       "title": {
         "en": "Huseyin’s House "
       },
@@ -5532,7 +5588,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 17,
+      "location_id": 221,
       "title": {
         "en": "Start point of Gökçeören"
       },
@@ -5560,7 +5616,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 18,
+      "location_id": 222,
       "title": {
         "en": "Phellos Ancient City"
       },
@@ -5580,7 +5636,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are currently on the windy ridges of Phellos, which means 'Stony Country'. This is not one of the ornate cities of Lycia with marble streets; this is a harsh defense city, an eagle's nest. This summit just above Kaş was a strategic pass connecting the coast and the interior in ancient times. The people of Phellos were a warrior folk who focused on sturdy walls to protect their city from enemies rather than decorating it.\r\nWhen you look around, you will see massive sarcophagi hidden among the bushes. The 'Bull Relief Sarcophagus' is proof of how artistic Lycian stonemasonry could be even in these harsh conditions. The silence here is different; there is no city noise, only the sound of the wind. This quiet, shaped only by wind and stone, is part of what makes the place feel untouched. While the modern world flows fast below, Phellos continues its watch on this hill. Walking slowly through the ruins helps you notice small details in the stones that might otherwise be missed.  Walking through this proud city, you will feel the warrior spirit of Lycia.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -5588,7 +5646,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 32,
+      "location_id": 223,
       "title": {
         "en": "Alakilise Church"
       },
@@ -5608,7 +5666,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "In the mountainous interior of Demre, far from civilization, rising suddenly in the middle of nowhere, is this impressive ruin: Alakilise. Dating back to the 6th century AD, this early Byzantine church is stone-cold proof of how deeply rooted Christianity was in the region. It is thought to get its name from the reddish hue of the stones used in its construction or the traces of colorful frescoes that once adorned its walls.\r\nThis was a place of worship built for peasants living in rural areas and monks retreating into seclusion, not connected to a big city. Look carefully at the elegant cross motifs on the door lintels, the arrangement of the windows, and the masterful stonemasonry; these show that art and aesthetics were not compromised even on a mountaintop. In this place where there is no sound but the wind, Alakilise whispers to you that Lycia consists not only of the sunny coastline but is also filled with deep faith and history in the mountains.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -5616,7 +5676,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 224,
       "title": {
         "en": "Uyuyan Dev Mountain"
       },
@@ -5636,7 +5696,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Look at that massive silhouette rising just above Kaş, covering the city and harbor like a quilt: That is the Sleeping Giant, the hero of legends. When you look at this mountain ridge from the island of Meis opposite or from the open sea, you will be amazed to notice that it is in the form of a giant human lying on its back. According to legend, this giant turned to stone out of grief when he could not be reunited with the woman he loved, perhaps his lover on the opposite island.\r\nThis is not just a sad legend, but also arguably the most fascinating viewing terrace in the region. When you climb here at sunset, breathless, you see the lights of Kaş, the boats in the harbor, and the island of Meis laid out beneath your feet. But be warned; the return path can be difficult and steep in the dark. It is safest to watch the last golden rays of the sun and descend before the colors turn completely to navy blue. The Sleeping Giant, as it has for centuries, will continue to be the silent guardian of Kaş tonight.\" In Anatolia, people rarely look at a mountain and see only stone. They see a story. For centuries, unusual rocks and mountain shapes have been explained through legends of lovers, heroes, saints, and giants who “turned to stone.” These stories are told not as distant myths, but as something that truly happened once upon a time, right here. Even today, when someone points to that silhouette and begins, “They say…,” the legend comes alive again.\r\nThis way of seeing the land through story is part of Anatolia’s living heritage. The mountain becomes more than a landscape; it becomes memory. Each retelling keeps the Sleeping Giant awake in another sense — not in body, but in culture. As long as people continue to tell and listen, the giant will not only guard Kaş, but also carry the shared imagination of the community into the future.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -5644,7 +5706,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 225,
       "title": {
         "en": "End point of Kaş"
       },
@@ -5678,7 +5740,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 226,
       "title": {
         "en": "Tomb"
       },
@@ -5706,7 +5768,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 227,
       "title": {
         "en": "Antiphellos Ancient City"
       },
@@ -5726,7 +5788,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Today, as you wander the lively streets of modern Kaş, you are actually walking on the layers of history, right on top of ancient Antiphellos. Although its name means 'Opposite Phellos,' Antiphellos eventually overshadowed the main city and turned into a rich port city. Its natural harbor and safe anchorage made it an important stop for ships sailing along the Lycian coast. The most fascinating structure of the city is undoubtedly the ancient theater facing the sea. In this theater with no stage building, the natural backdrop of the plays was the Mediterranean itself. Imagine sitting here centuries ago, watching a performance while the sun slowly set over the water.\r\nNotice the magnificent King's Tomb, the Lion Sarcophagus, that suddenly appears at the end of the Long Bazaar. Carved from a single block and decorated with lion heads, this monument unites death and life right in the heart of the city. Its placement in the middle of the settlement shows how the ancient city lived side by side with its monuments and memories. Antiphellos is a city that has always breathed with the sea throughout its history, from cedar trade to sponge diving. Even today, the sound of boats and the smell of salt in the air continue that ancient rhythm of coastal life.\r\n",
+        "language": "EN"
       },
       "threats": [
         "Dangerous Path"
@@ -5736,7 +5800,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 228,
       "title": {
         "en": "Defne Hotel"
       },
@@ -5769,7 +5833,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 229,
       "title": {
         "en": "Butka Restaurant"
       },
@@ -5802,7 +5866,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 230,
       "title": {
         "en": "Füm Smokehouse"
       },
@@ -5835,7 +5899,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 231,
       "title": {
         "en": "Kaş Gurme Felafel"
       },
@@ -5868,7 +5932,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 232,
       "title": {
         "en": "Athena Hotel"
       },
@@ -5901,7 +5965,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 233,
       "title": {
         "en": "Küçükçakıl Beach"
       },
@@ -5929,7 +5993,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 234,
       "title": {
         "en": "Büyükçakıl Beach"
       },
@@ -5963,7 +6027,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 235,
       "title": {
         "en": "İnceboğaz Beach "
       },
@@ -5996,7 +6060,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 236,
       "title": {
         "en": "Start point of Kaş"
       },
@@ -6024,7 +6088,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 237,
       "title": {
         "en": "Ancient Tomb Ruins"
       },
@@ -6052,7 +6116,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 238,
       "title": {
         "en": "Viewpoint"
       },
@@ -6080,7 +6144,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 239,
       "title": {
         "en": "Limanağzı Beach"
       },
@@ -6114,7 +6178,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 240,
       "title": {
         "en": "Çoban Beach"
       },
@@ -6144,7 +6208,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 241,
       "title": {
         "en": "Ufakdere Beach"
       },
@@ -6180,7 +6244,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 23,
+      "location_id": 242,
       "title": {
         "en": "Üzüm Pier"
       },
@@ -6208,7 +6272,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 22,
+      "location_id": 243,
       "title": {
         "en": "End point of Ufakdere"
       },
@@ -6242,7 +6306,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 23,
+      "location_id": 244,
       "title": {
         "en": "End point of Üzüm Pier"
       },
@@ -6270,7 +6334,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 23,
+      "location_id": 245,
       "title": {
         "en": "Habesa Bungalov Hotel"
       },
@@ -6304,7 +6368,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 24,
+      "location_id": 246,
       "title": {
         "en": "Start point of Üzümlü Pier"
       },
@@ -6332,7 +6396,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 24,
+      "location_id": 247,
       "title": {
         "en": "Lykia Camping & Cafe"
       },
@@ -6366,7 +6430,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 24,
+      "location_id": 248,
       "title": {
         "en": "Ali's House Camp & Pension"
       },
@@ -6400,7 +6464,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 24,
+      "location_id": 249,
       "title": {
         "en": "Apollonia Ancient City"
       },
@@ -6420,7 +6484,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "This is Apollonia; near Kaş, built on a massive 'L' shaped rock, a hidden and mysterious city still waiting to be fully discovered. As you step onto this great stone rising from the earth like a natural fortress, you may feel as though you have crossed an invisible threshold into a story whispered by the wind. Being a member of the Lycian League, this city draws attention with its defensive structures integrated with nature and interesting tombs, rather than grand avenues or massive monuments. Here, power did not shout through marble boulevards; it blended quietly with rock, sky, and horizon. The most striking ruin of the city is the Lycian type 'Pillar Tomb' monument; this tomb is the stone-carved proof of the power of the ruler who once governed here. Standing before it, imagine the ruler’s gaze once sweeping across the valleys and the distant sea, guarding both land and legend. Look for the small Byzantine church hidden among the rocks, its roof miraculously still standing, and the faint traces of the ancient theatre. If you pause for a moment, you might almost hear an echo—chants rising at dawn, applause carried by the evening breeze.  These ruins prove that life, faith, and art continued here stubbornly for centuries. Because Apollonia remains slightly off the popular tourist routes, it preserves that enchanting silence. This is a place for curious travelers, for those who prefer discovery over display, and intimacy over spectacle.  Here, there is no crowd noise; you can be alone with history, listening only to the sound of the wind, and feel the spirit of the ancient age. And perhaps, as the light shifts over the stones, you will sense that Apollonia is not merely a ruin but a quiet tale still unfolding beneath your footsteps.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -6428,7 +6494,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 24,
+      "location_id": 250,
       "title": {
         "en": "End point of Boğazcık"
       },
@@ -6456,7 +6522,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 25,
+      "location_id": 251,
       "title": {
         "en": "Start point of Boğazcık"
       },
@@ -6484,7 +6550,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 25,
+      "location_id": 252,
       "title": {
         "en": "Sunken City of Aperlai"
       },
@@ -6504,7 +6570,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -6512,7 +6580,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 25,
+      "location_id": 253,
       "title": {
         "en": "Aperlai Ancient City"
       },
@@ -6532,7 +6600,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "This is Aperlai; a treasure hidden in the arms of nature, accessible only by foot or sea. This city in the bosom of the Sıçak Peninsula was the production center of 'Purple Silver,' or Murex dye. In antiquity, this deep purple color was so rare and precious that it was used for royal garments and symbols of power across the Mediterranean. In ancient times, the purple dye obtained from these small shellfish was so valuable that Aperlai became rich and became the leader of its own league.\r\nToday, while touring Aperlai, you will witness how the sea swallowed the city. Ruined quays and house foundations wink at you from inside the water. If the sea is calm and clear, you can easily see stones, walls, and traces of streets beneath the surface, as if the past is still resting just below the waves. When you put on your snorkel, you can imagine swimming in the streets of a sunken city. On land, massive walls and polygonal stonemasonry show how much importance this isolated city attached to security. Even now, the only sounds you will hear here are the wind, the sea, and distant goat bells just as travelers might have heard centuries ago. Aperlai is one of the most peaceful harbors of Lycia, where silence is broken only by goat bells and waves.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -6540,7 +6610,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 25,
+      "location_id": 254,
       "title": {
         "en": "Aperlai Restaurant & Pansiyon"
       },
@@ -6574,7 +6644,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 25,
+      "location_id": 255,
       "title": {
         "en": "Yörük Ramazan Restaurant"
       },
@@ -6607,7 +6677,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 26,
+      "location_id": 256,
       "title": {
         "en": "End point of Kaleüçağız"
       },
@@ -6635,7 +6705,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 26,
+      "location_id": 257,
       "title": {
         "en": "Kekova Pension"
       },
@@ -6669,7 +6739,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 27,
+      "location_id": 258,
       "title": {
         "en": "Kekova Boat Tour"
       },
@@ -6702,7 +6772,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 27,
+      "location_id": 259,
       "title": {
         "en": "Kayaking tour "
       },
@@ -6722,7 +6792,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "In the Kekova region, the most unforgettable thing to do is to paddle right over history. You can only get this close to the thousands-of-years-old ruins of the Sunken City Simena, to those shallow and clear waters where large motorized boats are forbidden to enter, with a silent canoe. Gliding gently across the surface, you begin to realize that here the sea is not only water, but a transparent archive of the past. While dipping your paddles into the water, it is fascinating to watch the amphorae lying just below the surface, the ruined harbor remains, and the stairs descending into the sea. This is not just a sport, but a journey through time. Stopping for a break at the Shipyard Bay (Tersane Koyu) to swim means cooling off in the waters of an ancient harbor. Tersane Bay takes its name from the Byzantine shipyard remains still visible along the shore, reminding visitors that these waters were once alive with trade and craftsmanship. Set out in the early hours of the morning, when the sea is still like a sheet and the sun is not yet scorching. With no engine noise around, you will hear nothing but the sound of your own paddles and the whisper of history rising from the depths. For generations, the coastal communities of this region especially fishing families have spoken of the sea with a deep sense of respect, almost as if it were a living presence. The Lycian coastline, shaped by earthquakes and shifting shores, carries memories of settlements slowly claimed by the water. Paddling here is therefore not only an encounter with archaeology, but also with the Mediterranean’s long cultural memory where land and sea have always negotiated their boundaries.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -6730,7 +6802,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 21,
+      "location_id": 260,
       "title": {
         "en": "Scubadiving in Kaş"
       },
@@ -6750,7 +6822,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Kaş is not only one of Turkey's but one of the world's most prestigious diving spots. The visibility and clarity of the water here are so high that when you go deep, you feel like you are 'flying' in a void rather than swimming. Light filters down in soft beams, dissolving the boundary between sky and sea.  When you put on your mask and go underwater, you are greeted not only by colorful fish but also by a silent history dating back thousands of years. You can glide over a 3000-year-old amphora field, discover a plane wreck bearing the traces of World War II, or watch barracuda schools patrolling around a modern shipwreck. Here, time does not lie in layers above you, but rests quietly on the seabed.  Every dive is a door opening to another story. Kaş’s underwater world is as fascinating as Lycia on land, perhaps even more so, with its mysterious canyons and caves. For centuries, Mediterranean sailors believed the sea held both memory and destiny. Along these coasts, the sound of waves has long accompanied tales of merchants, storms, and journeys across the ancient Lycian shores. Today, as divers move silently through this same water, they follow routes once crossed by traders and seafarers, reminding us that the Mediterranean has always been both a passage and a storyteller.The deep blue awaits you with all its mystery; step into this silent world.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -6763,7 +6837,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 28,
+      "location_id": 261,
       "title": {
         "en": "Start point of Kaleüçağız"
       },
@@ -6791,7 +6865,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 28,
+      "location_id": 262,
       "title": {
         "en": "Smugglers Inn Cafe & Restaurant"
       },
@@ -6824,7 +6898,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 28,
+      "location_id": 263,
       "title": {
         "en": "Şenay Cafe & Pension"
       },
@@ -6858,7 +6932,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 264,
       "title": {
         "en": "Çağıllı Beach"
       },
@@ -6886,7 +6960,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 265,
       "title": {
         "en": "Çayağzı Beach"
       },
@@ -6914,7 +6988,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 266,
       "title": {
         "en": "Canoe tour"
       },
@@ -6942,7 +7016,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 267,
       "title": {
         "en": "End point of Çayağzı(Demre)"
       },
@@ -6970,7 +7044,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 29,
+      "location_id": 268,
       "title": {
         "en": "Dufa Bungalov"
       },
@@ -7004,7 +7078,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 32,
+      "location_id": 269,
       "title": {
         "en": "End point of Alakilise"
       },
@@ -7034,7 +7108,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 33,
+      "location_id": 270,
       "title": {
         "en": "Yatıkardıç Plateau"
       },
@@ -7062,7 +7136,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 34,
+      "location_id": 271,
       "title": {
         "en": "End point of Finike"
       },
@@ -7096,7 +7170,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 33,
+      "location_id": 272,
       "title": {
         "en": "Start point of Alakilise"
       },
@@ -7124,7 +7198,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 35,
+      "location_id": 273,
       "title": {
         "en": "Esperanza Boutique Hotel of Lykia"
       },
@@ -7158,7 +7232,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 36,
+      "location_id": 274,
       "title": {
         "en": "Start point of Karaöz"
       },
@@ -7186,7 +7260,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 35,
+      "location_id": 275,
       "title": {
         "en": "Lighthouse Camping"
       },
@@ -7220,7 +7294,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 35,
+      "location_id": 276,
       "title": {
         "en": "SunSea Karaöz - Sülo Palas Camping & Bungalov"
       },
@@ -7254,7 +7328,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 277,
       "title": {
         "en": "End point of Adrasan"
       },
@@ -7288,7 +7362,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 35,
+      "location_id": 278,
       "title": {
         "en": "Karaöz Beach"
       },
@@ -7316,7 +7390,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 279,
       "title": {
         "en": "Adrasan Beach"
       },
@@ -7350,7 +7424,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 280,
       "title": {
         "en": "Jungle Bungalows & Camping"
       },
@@ -7384,7 +7458,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 281,
       "title": {
         "en": "Portakal Bahçesi Bungalov"
       },
@@ -7418,7 +7492,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 37,
+      "location_id": 282,
       "title": {
         "en": "Likya Adrasan Hotel"
       },
@@ -7452,7 +7526,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 39,
+      "location_id": 283,
       "title": {
         "en": "End point of Çıralı"
       },
@@ -7486,7 +7560,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 39,
+      "location_id": 284,
       "title": {
         "en": "Çıralı Chimera Camping & Bungalow"
       },
@@ -7520,7 +7594,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 285,
       "title": {
         "en": "End Point of Tekirova"
       },
@@ -7548,7 +7622,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 286,
       "title": {
         "en": "Premium park apart otel"
       },
@@ -7581,7 +7655,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 287,
       "title": {
         "en": "Millennium Hotel"
       },
@@ -7615,7 +7689,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 41,
+      "location_id": 288,
       "title": {
         "en": "End point of Kuzdere"
       },
@@ -7643,7 +7717,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 289,
       "title": {
         "en": "Start point of Kuzdere-Roman Bridge"
       },
@@ -7671,7 +7745,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 290,
       "title": {
         "en": "Likya Yolu Doğa Camping & Bungalov"
       },
@@ -7705,7 +7779,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 291,
       "title": {
         "en": "Nadir’s House"
       },
@@ -7739,7 +7813,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 292,
       "title": {
         "en": "End point of Göynük Plateau"
       },
@@ -7767,7 +7841,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 293,
       "title": {
         "en": "Start point of Göynük Plateau"
       },
@@ -7795,7 +7869,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 294,
       "title": {
         "en": "End point of Göynük Canyon"
       },
@@ -7828,7 +7902,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 44,
+      "location_id": 295,
       "title": {
         "en": "Start point of Göynük Canyon"
       },
@@ -7861,7 +7935,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 44,
+      "location_id": 296,
       "title": {
         "en": "End point of Hisarçandır"
       },
@@ -7889,7 +7963,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 44,
+      "location_id": 297,
       "title": {
         "en": "Guesthouse "
       },
@@ -7923,7 +7997,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 44,
+      "location_id": 298,
       "title": {
         "en": "Hisarçandır Hotel"
       },
@@ -7957,7 +8031,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 299,
       "title": {
         "en": "Start point of Hisarçandır"
       },
@@ -7985,7 +8059,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 300,
       "title": {
         "en": "Göynük Canyon"
       },
@@ -8005,7 +8079,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are currently at one of the coolest and most adventurous stops on the Lycian Way: Göynük Canyon. Formed by the spring waters gliding from the peaks of the Beydağları mountains eroding the limestone rocks over millions of years, this natural wonder mesmerizes with its turquoise waters and sheer walls reaching for the sky. Shaped patiently by time, stone and water have entered into a dialogue here that still continues today. As you move deeper into the canyon, you will see the sunlight narrowing and the color of the rocks turning from orange to gre, as if you are walking from one geological era into another. This is not just a walking path, but a real adventure course where you will proceed through the water. You can swim in natural pools formed by ice-cold waters and pass under rushing waterfalls, feeling the power of nature on your skin. Even in the scorching heat of summer, this valley remains cool and humid, a rare sanctuary offering nature's power and aesthetics simultaneously. The sound of the water and the grandeur of the canyon will remind you how old and strong the world is. For centuries, in Anatolia, flowing water has never been seen as mere water. Springs and mountain waters were regarded as life-giving, purifying, even sacred. Among the Yörük communities who moved through the Beydağları, water sources were resting points, meeting places, and signs of blessing in harsh mountain geographies. Even today, many locals speak of mountain water as “alive” something that strengthens the body and clears the spirit. Standing here, feeling the cold current around you, you are not only entering a canyon, but also stepping into a long cultural memory shaped by respect for nature’s generosity.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8018,7 +8094,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 301,
       "title": {
         "en": "Zipline & Canyoning (Body Rafting)"
       },
@@ -8051,7 +8127,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 302,
       "title": {
         "en": "End point of Geyikbayırı"
       },
@@ -8085,7 +8161,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 303,
       "title": {
         "en": "Josito Camping & Bungalov"
       },
@@ -8119,7 +8195,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 304,
       "title": {
         "en": "Trebenna Ancient City"
       },
@@ -8139,7 +8215,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Right next to Antalya, on the steep hills of Geyikbayırı, you are in an eagle's nest floating among the clouds: Trebenna. Perched high above the plains, this ancient city seems less built than carefully placed upon the mountain itself. In ancient times, this city was like a strategic border outpost controlling the passage between the Lycia and Pamphylia regions. Because it was built on steep and inaccessible rocks, throughout history, it has been a secure refuge for the people, difficult for armies to capture.\r\nThe structure that will impress you the most while wandering among the city's ruins is the surprisingly well-preserved Roman Bath. The existence of such a massive bath so high up the mountain shows that the Romans knew no bounds in water engineering and lifestyle. Carrying water to this altitude was not only a technical achievement, but also a reflection of a civilization that considered bathing, health, and social life essential, wherever they settled. Also, the rock-cut chamber tombs and church ruins from the Byzantine period tell how important a center Trebenna was in both Pagan and Christian eras. Each layer of stone here carries the imprint of changing beliefs, shifting powers, and enduring human presence.This hidden city concealed within pine forests is a journey in time that will rest your soul with its unique view and deep silence. When the wind moves through the trees and silence settles over the stones, you begin to understand why high places have always held symbolic meaning in Anatolia — as spaces closer to the sky, to reflection, and to transcendence.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [],
@@ -8147,7 +8225,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 46,
+      "location_id": 305,
       "title": {
         "en": "Rock climbing"
       },
@@ -8167,7 +8245,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Geyikbayırı is a legend that ranks at the top of the world rock climbing map. This natural wonder just behind Antalya attracts climbers from all over the world like a magnet with the perfect quality of its limestone rocks and thousands of different routes appealing to every level. From beginners taking their first steps on the rock to elite athletes testing their limits, these walls offer a vertical landscape of possibility. Especially in autumn and winter months, this place transforms into a meeting point for athletes from all over Europe. Massive stalactites, surfaces requiring technical mastery, and caves... As you hold onto the rock and rise, feeling the endless blue of the Mediterranean behind you and the snowy peaks of the Taurus Mountains in front of you is priceless. Each movement demands focus, balance, and trust not only in the equipment, but in your own body and mind. This is not just a sports area, but the center of human struggle with nature and harmony with it. The name “Geyikbayırı” means “Deer Slope,” a reminder that long before it became an international climbing center, this landscape was part of the mountain life of local communities and wildlife routes. The broader region of Beydağları has for centuries been home to Yörük pastoral traditions, where seasonal migration between highlands and lowlands shaped a living relationship with these mountains. Today, climbers from around the world share the same terrain once crossed by herders and flocks continuing, in a different form, the tradition of engaging closely and respectfully with the land. Whether you are a professional climber or just a spectator, the energy of Geyikbayırı will draw you in. Here, the rock is not only something to conquer, but something to understand.",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8181,7 +8261,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 306,
       "title": {
         "en": "Boat Tour"
       },
@@ -8214,7 +8294,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 307,
       "title": {
         "en": "Scubadiving"
       },
@@ -8247,7 +8327,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 308,
       "title": {
         "en": "Sign"
       },
@@ -8275,7 +8355,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 43,
+      "location_id": 309,
       "title": {
         "en": "Sign"
       },
@@ -8303,7 +8383,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 310,
       "title": {
         "en": "Paraglading"
       },
@@ -8323,7 +8403,9 @@
       "year_made": 1,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Are you ready to look at the world's most beautiful landscape through the eyes of a bird? Paragliding from the summit of Babadağ is much more than an ordinary flight; it is a visual feast in the sky. From a height of 1900 meters, running into the void among the clouds, the fear in your heart gives way to indescribable admiration.\r\nBeneath your feet lie the famous lagoon of Ölüdeniz, the dance of colors turning from turquoise to deep navy, the steep slopes of Butterfly Valley, and a horizon stretching all the way to the island of Rhodes. From this height, the coastline unfolds like a vast natural panorama.  During this glide, which lasts about 30 minutes, feeling the wind on your face, you will find yourself in the purest state of freedom. You have walked the Lycian Way with your steps; now is the time to greet it from the sky. What once felt distant and immense on foot now becomes a single, breathtaking landscape beneath you.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8337,7 +8419,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 42,
+      "location_id": 311,
       "title": {
         "en": "Mosque of Göynük Plateau "
       },
@@ -8367,7 +8449,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 40,
+      "location_id": 312,
       "title": {
         "en": "Sign about Caretta caretta"
       },
@@ -8395,7 +8477,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 315,
       "title": {
         "en": "Kayaköy (Ghost town)"
       },
@@ -8415,7 +8497,9 @@
       "year_made": 2025,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are at a place where time has stopped: Kayaköy, formerly known as Levissi. These hundreds of stone houses leaning against the slope, none blocking the other's view or sun, were once a lively town where Greek craftsmen lived. However, with the 1923 Population Exchange, its people had to leave these lands. Those leaving entrusted their belongings to neighbors hoping to return, while newcomers could not adapt to these hillside houses. In the end, this silent 'Ghost Village' remained.\r\nWandering among the roofless houses, you can see the traces of fireplaces inside and the faded blue paint on the walls. The Great Church and the Lower Church still try to preserve their former glory. Today, Kayaköy stands as an open-air heritage site, protected so that this shared past will not be forgotten.Kayaköy is the stone embodiment of the deep wounds opened in ordinary human lives by wars and political decisions. Walking in these streets, you will hear not only the wind but also the whisper of unfinished stories. Each empty doorway you pass once opened to a life—full of voices, meals, songs, and daily routines that ended not because people wished it, but because history changed their path.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8428,7 +8512,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 4,
+      "location_id": 316,
       "title": {
         "en": "Butterfly Valley"
       },
@@ -8448,7 +8532,9 @@
       "year_made": 2025,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "You are at a place where you disconnect from the world and fall into the compassionate arms of nature: Butterfly Valley. At the foothills of Babadağ, surrounded by steep cliffs of 350 meters, land access to this valley is so difficult that nature has managed to protect itself here for thousands of years. It takes its name from the 'Jersey Tiger' butterfly that lives in colonies here.\r\nWhen you walk into the depths of the valley, you will see a cooling waterfall flowing. This humid and special microclimate creates the valley's unique flora. Here you can notice local herbs such as wild thyme, sour pomegranate, and wild grape growing freely plants that local people and nature guides have long known for their aromas and uses, passed down through generations. Since this is a protected area, concrete buildings are forbidden; there are only tents, trees, and the sea. This protection helps preserve the valley much as it has been for generations, allowing visitors to experience nature with very little human trace.This hidden paradise where the turquoise sea meets the white beach is a sanctuary for those who want to escape the noise of the modern world.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8462,7 +8548,7 @@
       "contributor": "Artemis Outdoor"
     },
     {
-      "location_id": 3,
+      "location_id": 317,
       "title": {
         "en": "Ölüdeniz Natural Park & Blue Lagoon"
       },
@@ -8482,7 +8568,9 @@
       "year_made": 2025,
       "voice": {
         "will_be_voiced": 1,
-        "narrator": null
+        "narrator": "Skal International",
+        "text": "Standing before you is the legendary beach that adorns postcards: Ölüdeniz. Do not let the name 'Dead Sea' mislead you; it is called this because it remains motionless and calm like a sheet even on the stormiest days. The famous lagoon formed by Kumburnu is like a natural pool, constantly renewing itself with spring waters from the bottom to remain crystal clear.\r\nWhen you look up at Babadağ, you can see hundreds of paragliders floating in the sky. This is one of the world's best flight points because the view is unique; looking from above, the color transition of the sea from turquoise to deep navy is mesmerizing. Local people have long told stories about this bay; one well-known legend speaks of Belcekız, whose love story is said to live on in the name of this shore, showing how nature here is remembered not only through scenery but through stories. Whether you sunbathe on the beach or watch this view from the sky; Ölüdeniz is one of the most generous gifts nature has offered to humanity.\r\n",
+        "language": "EN"
       },
       "threats": [],
       "resources": [
@@ -8492,6 +8580,273 @@
         "Food"
       ],
       "timestamp_of_creation": "2025-12-24T13:07:04.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 318,
+      "title": {
+        "en": "Deneme 2026"
+      },
+      "segment": {
+        "id": 7,
+        "name": "Alınca - Ge(Yediburunlar)"
+      },
+      "category": {
+        "id": 6,
+        "name": "Beaches & Coastal Areas"
+      },
+      "coordinates": {
+        "lat": "2222588888",
+        "lon": "111"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 1,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2026-02-10T16:59:09.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 319,
+      "title": {
+        "en": "General Map"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.56128",
+        "lon": "29.137833"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2026-02-11T14:03:45.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 320,
+      "title": {
+        "en": "Alternative Route (Faralya-Aktaş-Kabak)"
+      },
+      "segment": {
+        "id": 5,
+        "name": "Faralya - Kabak Coast"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "29.118754",
+        "lon": "29.118754"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 1,
+        "narrator": "Skal International",
+        "text": null,
+        "language": "EN"
+      },
+      "threats": [],
+      "resources": [
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2026-02-11T14:31:12.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 321,
+      "title": {
+        "en": "Alternative Route (Kabak Bay-Cennet Bay-Kalabantia Bay-Ottoman c"
+      },
+      "segment": {
+        "id": 6,
+        "name": "Kabak Coast - Alınca"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.460531",
+        "lon": "29.125881"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2026-02-11T14:34:48.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 322,
+      "title": {
+        "en": "Alternative Route (to Alınca)"
+      },
+      "segment": {
+        "id": 6,
+        "name": "Kabak Coast - Alınca"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.45364",
+        "lon": "29.125233"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2026-02-11T14:37:11.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 323,
+      "title": {
+        "en": "Alternative Route (Çıralı-Tahtalı Mountain)"
+      },
+      "segment": {
+        "id": 40,
+        "name": "Çıralı-Tekirova 40"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.429226",
+        "lon": "30.463909"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2026-02-11T14:45:37.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 324,
+      "title": {
+        "en": "Alternative Route (Üzümlü Bay-Boğazcık)https://gadventures.wd3.m"
+      },
+      "segment": {
+        "id": 24,
+        "name": "Üzümlü Pier - Boğazcık"
+      },
+      "category": {
+        "id": 4,
+        "name": "Trekking Routes & Hiking Trails"
+      },
+      "coordinates": {
+        "lat": "36.156476",
+        "lon": "29.712897"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [],
+      "timestamp_of_creation": "2026-02-11T15:20:24.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 325,
+      "title": {
+        "en": "Amintas Rock Tombs"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 5,
+        "name": "Tourist Attractions & Landmarks"
+      },
+      "coordinates": {
+        "lat": "36.61898",
+        "lon": "29.11827"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Shadow"
+      ],
+      "timestamp_of_creation": "2026-02-11T16:19:59.000Z",
+      "contributor": "Artemis Outdoor"
+    },
+    {
+      "location_id": 326,
+      "title": {
+        "en": "Paspatur Bazaar"
+      },
+      "segment": {
+        "id": 3,
+        "name": "Fethiye(Ovacık) - Kirme"
+      },
+      "category": {
+        "id": 5,
+        "name": "Tourist Attractions & Landmarks"
+      },
+      "coordinates": {
+        "lat": "36.620857",
+        "lon": "29.109088"
+      },
+      "trigger_radius_meters": 15,
+      "year_made": 2026,
+      "voice": {
+        "will_be_voiced": 0,
+        "narrator": null
+      },
+      "threats": [],
+      "resources": [
+        "Water",
+        "Toilets",
+        "Shadow",
+        "Accomodation",
+        "Food"
+      ],
+      "timestamp_of_creation": "2026-02-11T16:24:13.000Z",
       "contributor": "Artemis Outdoor"
     }
   ]
