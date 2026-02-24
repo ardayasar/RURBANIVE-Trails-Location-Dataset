@@ -3,5 +3,6 @@
 .DS_Store
 /data/stories.json
 data_exporter.js
+data_updater.js
 package-lock.json
 package.json
