@@ -1,94 +1,35 @@
-# Rurbanrive Trails - Location Dataset
+# Lycian Way Trail, Point, Storytelling and Audio Dataset
 
-Welcome to the **Rurbanrive Trails Location Dataset**. This repository contains the core dataset for the Rurbanrive Trails audio-guide experience, featuring curated stories, geolocation data, and metadata for historical and cultural sites.
+Open data of **TRAIL – Lycian Odyssey**, a Digital Rural–Urban Enabler developed by ATAM Technology, Artemis Outdoor and Antalya SKAL within the RURBANIVE Open Call (Horizon Europe, grant agreement 101136597).
 
-## 📂 Repository Structure
+**Version 2.0.0** – 7 November 2026. This release reflects the consolidated catalogue published in the TRAIL application. Version 1.0.0 (February 2026) is archived on Zenodo.
 
-```
-.
-├── data/
-│   └── locations.json      # Primary dataset file
-├── LICENSE                 # CC-BY-SA 4.0 License
-└── README.md               # This documentation
-```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24040034.svg)](https://doi.org/10.5281/zenodo.24040034)
 
-## 📊 Data Schema
+## Datasets
 
-The dataset is stored in `data/locations.json`. Below is the structure of a location object:
+| Folder | Dataset | Content |
+|---|---|---|
+| [`dataset-1-trails-points-stories/`](dataset-1-trails-points-stories/) | Lycian Way Trail, Segment, Point and Cultural Storytelling Dataset | 41 published trails with route geometry, 44 original segments, 399 points of interest and 37 cultural story texts, in GeoJSON and CSV, with a field dictionary |
+| [`dataset-2-audio/`](dataset-2-audio/) | Lycian Odyssey Audio Dataset | 35 narrated cultural stories in MP3, with metadata and transcripts |
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `location_id` | Integer | Unique identifier for the location. |
-| `title` | Object | Localized titles (e.g., `en`). |
-| `segment` | Object | Trail segment info (`id`, `name`). |
-| `category` | Object | Location category info (`id`, `name`). |
-| `coordinates` | Object | Geolocation `{lat, lon}`. |
-| `trigger_radius_meters`| Integer | Distance in meters to trigger the audio guide. |
-| `year_made` | Integer \| Null | Year the location was established/recorded. |
-| `voice` | Object | Audio metadata (`will_be_voiced`, `narrator`, `text`, `language`, `file_path`). |
-| `threats` | Array | Potential hazards (e.g., "Slippery"). |
-| `resources` | Array | Available amenities (e.g., "Water", "Shadow"). |
-| `timestamp_of_creation`| String | ISO timestamp of record creation. |
-| `contributor` | String | Organization or individual who contributed the data. |
+Each folder has its own README. Identifiers link the two datasets: `story_id` and `location_id` connect the audio files, story texts and points of interest.
 
-### Example Entry
+- Coordinates: WGS 84 (EPSG:4326)
+- Language: English
+- Coverage: Lycian Way corridor, provinces of Antalya (TR611) and Muğla (TR323), Türkiye
+- All published trails have been walked and checked in the field by Artemis Outdoor
 
-```json
-{
-  "location_id": 3,
-  "title": {
-    "en": "Sightseeing of Ölüdeniz"
-  },
-  "segment": {
-    "id": 3,
-    "name": "Fethiye(Ovacık) - Kirme"
-  },
-  "category": {
-    "id": 18,
-    "name": "Photography & Scenic Viewpoints"
-  },
-  "coordinates": {
-    "lat": "36.53508",
-    "lon": "29.139856"
-  },
-  "trigger_radius_meters": 15,
-  "year_made": null,
-  "voice": {
-    "will_be_voiced": false,
-    "narrator": null
-  },
-  "threats": [],
-  "resources": ["Water", "Shadow"],
-  "timestamp_of_creation": "2026-02-23T15:12:00.110Z",
-  "contributor": "Artemis Outdoor"
-}
-```
+## Licence
 
-## 🚀 Usage
+Data, texts and audio: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Metadata: CC0.
 
-You can consume this data directly in your application:
+Cite as: ATAM Technology, Artemis Outdoor and Antalya SKAL (2026). *Lycian Way Trail, Point, Storytelling and Audio Dataset*, version 2.0.0. Zenodo. https://doi.org/10.5281/zenodo.24040034
 
-**JavaScript / Node.js:**
-```javascript
-const dataset = require('./data/locations.json');
-const allLocations = dataset.locations;
-```
+## Disclaimer
 
-**Python:**
-```python
-import json
+Route and hazard information supports trip planning and is not official safety guidance. Conditions change; check locally before walking.
 
-with open('data/locations.json', 'r') as f:
-    data = json.load(f)
-    print(f"Loaded {len(data['locations'])} locations")
-```
+## Funding
 
-## 🤝 Contributing
-
-We welcome contributions!
-1.  **New Locations**: Add a new object to the `locations` array in `data/locations.json`.
-2.  **Pull Requests**: Detailed descriptions of the changes are appreciated.
-
-## 📄 License
-
-This dataset is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+Funded by the European Union under the RURBANIVE project (Horizon Europe, grant agreement 101136597). Views and opinions expressed are those of the authors only and do not necessarily reflect those of the European Union.

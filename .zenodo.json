@@ -1,0 +1,16 @@
+{
+  "title": "Lycian Way Trail, Point, Storytelling and Audio Dataset (TRAIL – Lycian Odyssey)",
+  "upload_type": "dataset",
+  "description": "<p>Open datasets of the TRAIL – Lycian Odyssey Digital Rural–Urban Enabler, developed by ATAM Technology, Artemis Outdoor and Antalya SKAL within the RURBANIVE Open Call (Horizon Europe, grant agreement 101136597).</p><p><b>Dataset 1 – Lycian Way Trail, Segment, Point and Cultural Storytelling Dataset:</b> 41 published Lycian Way stages with route geometry, 44 original segments, 399 points of interest with categories, practical resources and hazards, and the texts of 37 location-linked cultural stories, in GeoJSON and CSV with a field dictionary.</p><p><b>Dataset 2 – Lycian Odyssey Audio Dataset:</b> 35 narrated cultural stories in MP3 with metadata and transcripts.</p><p>Coordinates in WGS 84. Language: English. Coverage: Lycian Way corridor, provinces of Antalya (TR611) and Muğla (TR323), Türkiye.</p>",
+  "creators": [
+    {"name": "ATAM Technology", "affiliation": "ATAM Robotic and Software Technologies Ltd."},
+    {"name": "Artemis Outdoor", "affiliation": "Artemis Outdoor"},
+    {"name": "Antalya SKAL", "affiliation": "Skål International Antalya"}
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "keywords": ["Lycian Way", "rural tourism", "cultural heritage", "trail data", "trekking", "points of interest", "audio guide", "storytelling", "geospatial data", "RURBANIVE"],
+  "grants": [{"id": "10.13039/501100000780::101136597"}],
+  "language": "eng",
+  "version": "2.0.0"
+}

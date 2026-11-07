@@ -1,0 +1,400 @@
+id,name,category,altitude_m,description,threats,resources,opening_hours,website_url,year_made,audio_trigger_distance_m,segment_id,last_updated,latitude,longitude
+842,Sightseeing of Ölüdeniz,Photography & Scenic Viewpoints,,,[],[],,,,50,3,2026-03-02,36.53508,29.139856
+843,Fountain,Amenities & Utilities,,,[],"[""Food"", ""Water"", ""Toilets"", ""Shadow""]",,,,50,3,2026-02-23,36.524599,29.154975
+844,Turnout,Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.558217,29.138726
+845,Start of parkour and sightseeing ,Photography & Scenic Viewpoints,,,[],[],,,,50,3,2026-02-23,36.545927,29.13389
+846,Sightseeing of Ölüdeniz,Photography & Scenic Viewpoints,,,[],[],,,,50,3,2026-02-23,36.53508,29.139856
+847,Left ,Wayfinding & Signage,,,[],[],,,,50,3,2026-02-23,36.524346,29.15149
+848,Start point of Lycian way,Start of Segment,,,[],"[""Shadow""]",,,,50,3,2026-02-23,36.561343,29.137785
+849,Montenegro hotel,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Toilets"", ""Accomodation"", ""Water"", ""Food""]",,,,50,4,2026-02-23,36.494701,29.135776
+850,Left,Amenities & Utilities,,,"[""Slippery""]","[""Shadow""]",,,,50,5,2026-02-23,36.480271,29.111724
+851,Left,Amenities & Utilities,,,"[""Slippery""]","[""Shadow""]",,,,50,5,2026-02-23,36.479524,29.111018
+852,Faralya Misafir Evi (hotel),Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Accomodation"", ""Shadow"", ""Food""]",,,,50,4,2026-02-23,36.493689,29.13506
+853,Down,Amenities & Utilities,,,[],"[""Shadow""]",,,,50,4,2026-02-23,36.477851,29.10869
+854,Faralya,End of Segment,,,[],"[""Toilets"", ""Food"", ""Shadow"", ""Water"", ""Accomodation""]",,,,50,4,2026-02-23,36.493966,29.136054
+855,Left ,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.477851,29.10869
+856,Straight,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.476455,29.106758
+857,Right down,Amenities & Utilities,,,"[""Slippery""]",[],,,,50,5,2026-02-23,36.471385,29.107886
+858,Straight,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.466158,29.116315
+859,Straight,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.465416,29.117989
+860,Right ,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.465604,29.121917
+861,Right,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.476743,29.108734
+862,Right down,Amenities & Utilities,,,[],[],,,,50,5,2026-02-23,36.470569,29.112606
+863,Straight,Amenities & Utilities,,,"[""Slippery""]","[""Shadow""]",,,,50,5,2026-02-23,36.464237,29.121743
+864,Kabak Beach ,Beaches & Coastal Areas,,,[],"[""Food"", ""Water"", ""Toilets""]",,,,50,5,2026-02-23,36.46117,29.125134
+865,"Market, toilet and shower",Operators & Providers,,,[],"[""Toilets"", ""Water"", ""Shadow""]",,,,50,5,2026-02-23,36.461906,29.125673
+866,Start Point of Ge(Yediburunlar),Trailheads & Parking,,,[],[],,,,50,8,2026-02-23,36.400705,29.137817
+867,"Ge Market, Camping, Pansion",Accommodation & Camping Sites,,,[],"[""Toilets"", ""Shadow"", ""Accomodation"", ""Food"", ""Water""]",,,,50,7,2026-02-23,36.40157,29.137034
+868,Left,Amenities & Utilities,,,[],[],,,,50,9,2026-02-23,36.380376,29.172051
+869,Be careful,Trekking Routes & Hiking Trails,,,"[""Dangerous Path"", ""Slippery""]",[],,,,50,8,2026-02-23,36.387277,29.150382
+870,Left,Amenities & Utilities,,,[],[],,,,50,9,2026-02-23,36.374962,29.173779
+871,Right ,Amenities & Utilities,,,[],[],,,,50,9,2026-02-23,36.373204,29.174566
+872,Straight,Amenities & Utilities,,,[],[],,,,50,9,2026-02-23,36.372315,29.174004
+873,Sütleğen plant,Flora & Fauna,,,[],[],,,,50,9,2026-02-23,36.366702,29.176414
+874,Pıynar Oak,Flora & Fauna,,,[],[],,,,50,9,2026-02-23,36.366734,29.176581
+875,Left,Amenities & Utilities,,,[],[],,,,50,10,2026-02-23,36.362536,29.181346
+876,Left,Amenities & Utilities,,,[],[],,,,50,10,2026-02-23,36.35471,29.185752
+877,Fatma Pansion & Camping,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,8,2026-02-23,36.380693,29.171958
+878,Market ,Amenities & Utilities,,,[],"[""Water"", ""Shadow"", ""Food"", ""Toilets""]",,,,50,3,2026-02-23,36.509415,29.154694
+879,Gül Market & Pension,Amenities & Utilities,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,4,2026-02-23,36.496167,29.139877
+880,Kelebek restaurant ,Restaurants & Local Cuisine,,,[],"[""Shadow"", ""Toilets"", ""Food"", ""Water""]",,,,50,4,2026-02-23,36.495178,29.137605
+881,Bus station,Transportation & Accessibility (includes Boat/Water),,,[],[],,,,50,4,2026-02-23,36.494925,29.137501
+882,Fountain,Amenities & Utilities,,,[],"[""Water"", ""Shadow""]",,,,50,4,2026-02-23,36.50481,29.14897
+883,Sightseeing of Kelebekler Vadisi,Photography & Scenic Viewpoints,,,[],[],,,,50,5,2026-02-23,36.495405,29.126018
+884,Scots pine / sarı çam (Pinus sylvestris L.),Flora & Fauna,,,[],"[""Shadow""]",,,,50,5,2026-02-23,36.494416,29.118754
+885,"Kabak Bus station (just for kabak village, no available for some",Transportation & Accessibility (includes Boat/Water),,,[],"[""Shadow""]",,,,50,5,2026-02-23,36.462906,29.125267
+886,Kabak Misafir Evi Hotel & Restaurant,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,5,2026-02-23,36.467365,29.124721
+887,Ottoman cistern,Amenities & Utilities,,,[],[],,,,50,7,2026-02-23,36.430626,29.145236
+888,Olive tree,Flora & Fauna,,,[],"[""Shadow""]",,,,50,8,2026-02-23,36.386876,29.146787
+889,Kadir’in Yeri ,Restaurants & Local Cuisine,,,[],"[""Shadow"", ""Toilets"", ""Water"", ""Food""]",,,,50,9,2026-02-23,36.362398,29.180418
+890,Zeynep Ablanın yeri (restaurant),Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,10,2026-02-23,36.33876,29.199774
+891,Fountain,Amenities & Utilities,,,[],"[""Water""]",,,,50,14,2026-02-23,36.275514,29.447862
+892,Fountain,Amenities & Utilities,,,[],"[""Water""]",,,,50,14,2026-02-23,36.275514,29.447862
+893,"Fountain, Toilet, Market ",Amenities & Utilities,,,[],"[""Shadow"", ""Toilets"", ""Water""]",,,,50,15,2026-02-23,36.275822,29.46243
+894,Signage,Wayfinding & Signage,,,[],[],,,,50,15,2026-02-23,36.27531,29.462648
+895,Left,Trekking Routes & Hiking Trails,,,[],[],,,,50,15,2026-02-23,36.27187,29.462141
+896,Right,Trekking Routes & Hiking Trails,,,[],[],,,,50,15,2026-02-23,36.271678,29.463441
+897,Tradational grain silos,Amenities & Utilities,,,[],"[""Shadow""]",,,,50,14,2026-02-23,36.275302,29.447578
+898,Signage,Wayfinding & Signage,,,[],[],,,,50,15,2026-02-23,36.268409,29.463842
+899,Topçam ,Flora & Fauna,,,[],[],,,,50,16,2026-02-23,36.242036,29.547351
+900,Signage,Wayfinding & Signage,,,[],"[""Shadow""]",,,,50,16,2026-02-23,36.257181,29.486972
+901,Water in spring time & Shelter,Amenities & Utilities,,,"[""No Signal""]","[""Water"", ""Shadow""]",,,,50,18,2026-02-23,36.263702,29.627299
+902,Water in spring time & Shelter,Amenities & Utilities,,,"[""No Signal""]","[""Water"", ""Shadow""]",,,,50,18,2026-02-23,36.263702,29.627299
+903,Signage,Wayfinding & Signage,,,[],[],,,,50,31,2026-02-23,36.288278,29.973389
+904,Start point of Demre,Start of Segment,,,[],[],,,,50,31,2026-02-23,36.285514,29.968945
+905,House for food,Restaurants & Local Cuisine,,,[],"[""Shadow"", ""Food"", ""Toilets"", ""Water""]",,,,50,31,2026-02-23,36.306668,29.97485
+906,Tombs ,Ancient Cities & Archaeological Sites,,,[],"[""Shadow""]",,,,50,31,2026-02-23,36.30355,29.9715
+907,"Bank, rest place, no water",Amenities & Utilities,,,[],"[""Shadow""]",,,,50,31,2026-02-23,36.306308,29.974291
+908,Mosque,Emergency & Safety Points,,,[],[],,,,50,32,2026-02-23,36.325666,29.992564
+909,Rock & soil mix,Trail Conditions & Closures,,,"[""Rock""]",[],,,,50,33,2026-02-23,36.348619,30.010941
+910,Free Camping area,Accommodation & Camping Sites,,,[],[],,,,50,34,2026-02-23,36.3001,30.073538
+911,Camping,Accommodation & Camping Sites,,,[],"[""Water"", ""Shadow"", ""Accomodation"", ""Food"", ""Toilets""]",,,,50,36,2026-02-23,36.250526,30.406782
+912,Kekik (origanum),Flora & Fauna,,,[],"[""Shadow""]",,,,50,33,2026-02-23,36.34762,30.011036
+913,Restaurant ,Restaurants & Local Cuisine,,,[],"[""Food"", ""Shadow"", ""Toilets"", ""Water""]",,,,50,36,2026-02-23,36.250396,30.406883
+914,Kekik (origanum),Flora & Fauna,,,[],"[""Shadow""]",,,,50,33,2026-02-23,36.34762,30.011036
+915,Cafe,Restaurants & Local Cuisine,,,[],"[""Food"", ""Shadow"", ""Water""]",,,,50,36,2026-02-23,36.246147,30.40593
+916,Restaurant ,Restaurants & Local Cuisine,,,[],"[""Food"", ""Shadow"", ""Toilets"", ""Water""]",,,,50,36,2026-02-23,36.250396,30.406883
+917,Viewpoint,Photography & Scenic Viewpoints,,,[],[],,,,50,37,2026-02-23,36.237428,30.408795
+918,Information,Regulations & Permits,,,[],"[""Shadow""]",,,,50,36,2026-02-23,36.230268,30.406275
+919,Info and map,Pilgrimage & Religious Sites,,,[],[],,,,50,38,2026-02-23,36.314181,30.462099
+920,Start point ,Start of Segment,,,[],[],,,,50,38,2026-02-23,36.314115,30.462019
+921,Market,Amenities & Utilities,,,[],[],,,,50,38,2026-02-23,36.314489,30.461259
+922,Korsan coast,Beaches & Coastal Areas,,,[],[],,,,50,36,2026-02-23,36.254731,30.406333
+923,Maden coast ,Beaches & Coastal Areas,,,[],"[""Shadow""]",,,,50,40,2026-02-23,36.439258,30.48722
+924,Signage,Wayfinding & Signage,,,[],"[""Shadow""]",,,,50,36,2026-02-23,36.230217,30.406175
+925,Korsan coast,Beaches & Coastal Areas,,,[],[],,,,50,36,2026-02-23,36.254731,30.406333
+926,Start point of Tekirova,Trailheads & Parking,,,[],[],,,,50,41,2026-02-23,36.519156,30.538585
+927,Asphalt,Trail Conditions & Closures,,,[],[],,,,50,41,2026-02-23,36.563661,30.530218
+928,Sandal tree,Flora & Fauna,,,[],[],,,,50,41,2026-02-23,36.551824,30.518896
+929,Signage,Wayfinding & Signage,,,[],[],,,,50,41,2026-02-23,36.542413,30.529001
+930,Signage,Wayfinding & Signage,,,[],[],,,,50,41,2026-02-23,36.564456,30.525747
+931,Information of Flora,Pilgrimage & Religious Sites,,,[],[],,,,50,36,2026-02-23,36.219476,30.40875
+932,Information of Flora,Restaurants & Local Cuisine,,,[],[],,,,50,36,2026-02-23,36.217679,30.40893
+933,Gelidonya Lighthouse,Photography & Scenic Viewpoints,,,[],"[""Shadow""]",,,,50,36,2026-02-23,36.219185,30.409687
+934,Bank (rest area),Amenities & Utilities,,,[],"[""Shadow""]",,,,50,38,2026-02-23,36.338579,30.468877
+935,Start point of Çıralı (sea side),Start of Segment,,,[],"[""Shadow""]",,,,50,40,2026-02-23,36.424756,30.480432
+936,Beach,Beaches & Coastal Areas,,,"[""No Signal""]",[],,,,50,40,2026-02-23,36.433434,30.480339
+937,King’s Bay,Beaches & Coastal Areas,,,"[""No Signal""]","[""Shadow""]",,,,50,40,2026-02-23,36.43709,30.483139
+938,Signage,Wayfinding & Signage,,,[],[],,,,50,40,2026-02-23,36.439077,30.49206
+939,Fountain,Amenities & Utilities,,,[],"[""Water"", ""Shadow""]",,,,50,40,2026-02-23,36.461461,30.504939
+940,Beycikbükü Beach,Beaches & Coastal Areas,,,[],[],,,,50,40,2026-02-23,36.459899,30.509628
+941,Fountain & Signage ,Amenities & Utilities,,,[],"[""Water"", ""Shadow""]",,,,50,40,2026-02-23,36.468877,30.502842
+942,Tekirova beach ,Beaches & Coastal Areas,,,[],[],,,,50,40,2026-02-23,36.468055,30.506615
+943,Alda Hotel,Accommodation & Camping Sites,,,[],"[""Water"", ""Accomodation"", ""Toilets"", ""Food"", ""Shadow""]",,,,50,41,2026-02-23,36.565246,30.526091
+944,Signage,Wayfinding & Signage,,,[],"[""Shadow""]",,,,50,42,2026-02-23,36.603117,30.483712
+945,Roman Old Bridge & Restaurant ,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,42,2026-02-23,36.600196,30.485845
+946,Dangerous path ,Trail Conditions & Closures,,,"[""Dangerous Path"", ""Slippery""]","[""Shadow""]",,,,50,42,2026-02-23,36.627514,30.471142
+947,Tree - Juniperus L. (Ardıç Ağacı),Flora & Fauna,,,[],"[""Shadow""]",,,,50,42,2026-02-23,36.643318,30.460181
+948,Tree - Platanus orientalis (Doğu Çınarı Ağacı),Flora & Fauna,,,[],"[""Shadow""]",,,,50,42,2026-02-23,36.645376,30.458376
+949,Turnout,Wayfinding & Signage,,,[],[],,,,50,42,2026-02-23,36.645717,30.450753
+950,Fountain,Amenities & Utilities,,,[],"[""Water""]",,,,50,42,2026-02-23,36.648515,30.448723
+951,Viewpoint,Photography & Scenic Viewpoints,,,[],[],,,,50,42,2026-02-23,36.634788,30.467747
+952,Fountain ,Amenities & Utilities,,,[],"[""Shadow"", ""Water""]",,,,50,43,2026-02-23,36.743976,30.483747
+953,"Ground texture: Soil, some rock, slightly slippery",Trail Conditions & Closures,,,"[""Slippery""]",[],,,,50,46,2026-02-23,36.793189,30.43816
+954,Mountain Pass (Dayısı geçidi),Trekking Routes & Hiking Trails,,,[],[],,,,50,44,2026-02-23,36.74436,30.497083
+955,Bushes - Ruscus aculeatus (Kokina),Flora & Fauna,,,[],"[""Shadow""]",,,,50,18,2026-02-23,36.243196,29.65306
+956,Sidek & Badem Market,Amenities & Utilities,,,[],[],,,,50,15,2026-02-23,36.265478,29.487718
+957,Çukurbağ Market,Amenities & Utilities,,,[],[],,,,50,20,2026-02-23,36.232428,29.670715
+958,Free Camping Area in Faralya,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Water"", ""Shadow"", ""Food"", ""Accomodation""]",,,,50,4,2026-02-23,36.496184,29.137117
+959,Free Camping Area in Faralya (without toilet or shower),Accommodation & Camping Sites,,,[],"[""Accomodation"", ""Shadow""]",,,,50,4,2026-02-23,36.494644,29.125162
+960,Start point of Faralya-1,Start of Segment,,,[],[],,,,50,5,2026-02-23,36.491946,29.133513
+961,Start point of Kabak village,Start of Segment,,,[],[],,,,50,6,2026-02-23,36.470505,29.129159
+962,End point of Kabak,End of Segment,,,[],[],,,,50,5,2026-02-23,36.467448,29.124716
+963,Start point of Alınca,Trailheads & Parking,,,[],[],,,,50,7,2026-02-23,36.446195,29.14349
+964,End point of Alınca,End of Segment,,,[],[],,,,50,6,2026-02-23,36.448192,29.142505
+965,Sun Ocean Motel,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Accomodation"", ""Water"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.5756641,29.1486228
+966,Sunset Apart Hotel,Accommodation & Camping Sites,,,[],"[""Water"", ""Food"", ""Toilets"", ""Shadow"", ""Accomodation""]",,,,50,3,2026-02-23,36.5695438,29.1477146
+967,Sunset Apart Hotel,Accommodation & Camping Sites,,,[],"[""Food"", ""Accomodation"", ""Water"", ""Shadow"", ""Toilets""]",,,,50,3,2026-02-23,36.5695438,29.1477146
+968,The Pine Hill Hotel & Suites,Accommodation & Camping Sites,,,[],"[""Food"", ""Shadow"", ""Toilets"", ""Water"", ""Accomodation""]",,,,50,3,2026-02-23,36.5746326,29.1360322
+969,Halil’s cafe,Restaurants & Local Cuisine,,,[],"[""Toilets"", ""Water"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.5251316,29.1596953
+970,Doğa Cafe,Restaurants & Local Cuisine,,,[],"[""Food"", ""Water"", ""Toilets""]",,,,50,3,2026-02-23,36.5085698,29.148716
+971,Türkdomes Glamping,Accommodation & Camping Sites,,,[],"[""Food"", ""Accomodation"", ""Toilets"", ""Shadow"", ""Water""]",,,,50,7,2026-02-23,36.4368722,29.1425278
+972,Çeti Camping & Cafe,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Accomodation"", ""Food"", ""Toilets"", ""Water""]",,,,50,7,2026-02-23,36.4325922,29.146417
+973,End point of Ge(Yediburunlar),End of Segment,,,[],[],,,,50,7,2026-02-23,36.4016081,29.13686
+974,Yediburunlar Lighthouse Boutique Hotel & Restaurant,Accommodation & Camping Sites,,,[],"[""Water"", ""Food"", ""Shadow"", ""Accomodation"", ""Toilets""]",,,,50,7,2026-02-23,36.4045384,29.130702
+975,Yediburunlar Pavlonya Bungalows & Camping,Accommodation & Camping Sites,,,[],"[""Food"", ""Accomodation"", ""Toilets"", ""Shadow"", ""Water""]",,,,50,7,2026-02-23,36.3809001,29.140251
+976,Nasuh Camping & Pansion / Restaurant,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Shadow"", ""Water"", ""Accomodation"", ""Food""]",,,,50,8,2026-02-23,36.3828347,29.1688859
+977,Raziye Pension & Camping & Ramazan Market,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,8,2026-02-23,36.3820727,29.1711326
+978,End point of Bel,End of Segment,,,[],[],,,,50,8,2026-02-23,36.3819202,29.1711846
+979,Start point of Bel,Trailheads & Parking,,,[],[],,,,50,9,2026-02-23,36.3803465,29.1721478
+980,Likya Garden Life Tiny House & Camping,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Toilets"", ""Food"", ""Water"", ""Accomodation""]",,,,50,11,2026-02-23,36.3316964,29.2265293
+981,End Point of Patara(Karadere Beach),End of Segment,,,[],[],,,,50,11,2026-02-23,36.3326531,29.2254959
+982,Karadere Beach ,Beaches & Coastal Areas,,,[],[],,,,50,11,2026-02-23,36.3283352,29.2259352
+983,Start point of Patara(Karadere Beach),Start of Segment,,,[],[],,,,50,12,2026-02-23,36.3295458,29.2323399
+984,Xanthos Ancient City,Ancient Cities & Archaeological Sites,,,[],"[""Toilets"", ""Shadow"", ""Water""]",,,,50,12,2026-02-23,36.3568625,29.3186994
+985,Letoon Ancient City,Ancient Cities & Archaeological Sites,,,[],"[""Shadow"", ""Water"", ""Toilets""]",,,,50,12,2026-02-23,36.3321593,29.2897992
+986,Bus station ,Transportation & Accessibility (includes Boat/Water),,,[],"[""Shadow""]",,,,50,11,2026-02-23,36.3297273,29.232762
+987,Fethiye Bus station ,Transportation & Accessibility (includes Boat/Water),,,[],"[""Water"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.6245375,29.1323653
+988,Kınık Bus Station,Transportation & Accessibility (includes Boat/Water),,,[],"[""Water"", ""Shadow"", ""Food""]",,,,50,12,2026-02-23,36.352623,29.3191657
+989,End point of Xanthos ,End of Segment,,,[],[],,,,50,12,2026-02-23,36.352623,29.3191657
+990,Patara Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,13,2026-02-23,36.2605786,29.3165717
+991,Phaselis Ancient City,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,41,2026-02-23,36.5248291,30.5513243
+992,Patara Sand Hills ,Photography & Scenic Viewpoints,,,[],[],,,,50,13,2026-02-23,36.2766927,29.2978063
+993,Patara Beach (Gelemiş),Beaches & Coastal Areas,,,[],"[""Water"", ""Shadow"", ""Food""]",,,,50,13,2026-02-23,36.2532941,29.3129319
+994,Olympos Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,38,2026-02-23,36.3929717,30.4707054
+995,Olympos Beach,Beaches & Coastal Areas,,,[],[],,,,50,38,2026-02-23,36.3968844,30.475869
+996,Chimaera National Park ,Historical & Mythological Stories,,,[],[],,,,50,39,2026-02-23,36.4289473,30.4652807
+997,Myra Ancient City,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow""]",,,,50,30,2026-02-23,36.2586664,29.9852611
+998,The Church of Saint Nicholas,Pilgrimage & Religious Sites,,,[],"[""Water"", ""Food"", ""Toilets"", ""Shadow""]",,,,50,30,2026-02-23,36.2446317,29.9855455
+999,Andriake Ancient City,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow""]",,,,50,29,2026-02-23,36.2260103,29.9563691
+1000,Kekova Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,27,2026-02-23,36.1816902,29.8664369
+1001,Simena Castle,Ancient Cities & Archaeological Sites,,,[],"[""Accomodation"", ""Food"", ""Water"", ""Shadow"", ""Toilets""]",,,,50,27,2026-02-23,36.1912168,29.8620666
+1002,Limyra Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,34,2026-02-23,36.3424437,30.1689328
+1003,Start point of Patara(Gelemiş) ,Start of Segment,,,[],[],,,,50,50,2026-02-23,36.269459,29.32556
+1004,St.Nicholas Pension ,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Water"", ""Shadow"", ""Food"", ""Accomodation""]",,,,50,13,2026-02-23,36.2751534,29.3199087
+1005,Aqueduct Delikkemer,Ancient Cities & Archaeological Sites,,,[],[],,,,50,50,2026-02-23,36.264131,29.365415
+1006,End point of Kalkan,End of Segment,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,50,2026-02-23,36.2655374,29.4146785
+1007,Payava Hotel by True Blue,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,50,2026-02-23,36.2660886,29.4024453
+1008,Neruda Hotel,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation""]",,,,50,50,2026-02-23,36.267341,29.4137421
+1009,Kuşhane Restaurant,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,50,2026-02-23,36.2674769,29.4132274
+1010,Indigo Beach Club & Restaurant,Beaches & Coastal Areas,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,50,2026-02-23,36.2622366,29.4127239
+1011,Kalkan Bus Station,Transportation & Accessibility (includes Boat/Water),,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,50,2026-02-23,36.270924,29.4124721
+1012,The Mediteran Hotel,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,50,2026-02-23,36.2678621,29.4184256
+1013,Start point of Kalkan,Start of Segment,,,[],[],,,,50,14,2026-02-23,36.2550679,29.4352588
+1014,Pirha Köy Sofrası (restaurant),Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,14,2026-02-23,36.2758727,29.4624738
+1015,Çelik market ,Amenities & Utilities,,,[],"[""Shadow"", ""Water""]",,,,50,14,2026-02-23,36.2758219,29.4624822
+1016,Mozaik Pension,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Toilets"", ""Water"", ""Accomodation"", ""Food""]",,,,50,15,2026-02-23,36.2629422,29.4797395
+1017,Istanbullu Gelin Cafe,Restaurants & Local Cuisine,,,[],"[""Food"", ""Toilets"", ""Shadow"", ""Water""]",,,,50,15,2026-02-23,36.262637,29.4799048
+1018,Karafil Pension & Camping ,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Toilets"", ""Food"", ""Accomodation"", ""Water""]",,,,50,15,2026-02-23,36.26522,29.4784973
+1019,End point of Sarıbelen,End of Segment,,,[],[],,,,50,15,2026-02-23,36.2659602,29.4768112
+1020,Start point of Sarıbelen,Start of Segment,,,[],[],,,,50,16,2026-02-23,36.2617467,29.4802434
+1021,End point of Gökçeören,End of Segment,,,[],"[""Water""]",,,,50,16,2026-02-23,36.2394415,29.5455706
+1022,Kaputaş Beach,Beaches & Coastal Areas,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,14,2026-02-23,36.2297486,29.4489957
+1023,Huseyin’s House ,Restaurants & Local Cuisine,,,[],"[""Food"", ""Shadow"", ""Toilets"", ""Water"", ""Accomodation""]",,,,50,16,2026-02-23,36.240186,29.491802
+1024,Start point of Gökçeören,Trailheads & Parking,,,[],[],,,,50,17,2026-02-23,36.239414,29.545701
+1025,Phellos Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,18,2026-02-23,36.24204,29.659552
+1026,Alakilise Church,Pilgrimage & Religious Sites,,,[],[],,,,50,32,2026-02-23,36.330861,30.002465
+1027,Uyuyan Dev Mountain,Photography & Scenic Viewpoints,,,[],[],,,,50,21,2026-02-23,36.208456,29.64528
+1028,End point of Kaş,End of Segment,,,[],"[""Shadow"", ""Toilets"", ""Water"", ""Accomodation"", ""Food""]",,,,50,21,2026-02-23,36.199484,29.6413557
+1029,Tomb,Ancient Cities & Archaeological Sites,,,[],[],,,,50,21,2026-02-23,36.199474,29.6424527
+1030,Antiphellos Ancient City,Ancient Cities & Archaeological Sites,,,"[""Dangerous Path""]",[],,,,50,21,2026-02-23,36.199938,29.6348691
+1031,Defne Hotel,Accommodation & Camping Sites,,,[],"[""Accomodation"", ""Toilets"", ""Water"", ""Shadow""]",,,,50,21,2026-02-23,36.1975669,29.6450521
+1032,Butka Restaurant,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,21,2026-02-23,36.2000179,29.6411689
+1033,Füm Smokehouse,Restaurants & Local Cuisine,,,[],"[""Shadow"", ""Water"", ""Food"", ""Toilets""]",,,,50,21,2026-02-23,36.1992484,29.6377632
+1034,Kaş Gurme Felafel,Restaurants & Local Cuisine,,,[],"[""Toilets"", ""Shadow"", ""Water"", ""Food""]",,,,50,21,2026-02-23,36.2010798,29.6410821
+1035,Athena Hotel,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Water"", ""Shadow"", ""Accomodation""]",,,,50,21,2026-02-23,36.1991185,29.6430881
+1036,Küçükçakıl Beach,Beaches & Coastal Areas,,,[],[],,,,50,21,2026-02-23,36.1972449,29.6440644
+1037,Büyükçakıl Beach,Beaches & Coastal Areas,,,[],"[""Toilets"", ""Water"", ""Accomodation"", ""Food"", ""Shadow""]",,,,50,21,2026-02-23,36.191664,29.6515357
+1038,İnceboğaz Beach ,Beaches & Coastal Areas,,,[],"[""Food"", ""Shadow"", ""Water"", ""Toilets""]",,,,50,21,2026-02-23,36.2002254,29.6247173
+1039,Start point of Kaş,Start of Segment,,,[],[],,,,50,22,2026-02-23,36.1914116,29.6529398
+1040,Ancient Tomb Ruins,Ancient Cities & Archaeological Sites,,,[],[],,,,50,22,2026-02-23,36.174053,29.651302
+1041,Viewpoint,Photography & Scenic Viewpoints,,,[],[],,,,50,22,2026-02-23,36.174346,29.651329
+1042,Limanağzı Beach,Beaches & Coastal Areas,,,[],"[""Toilets"", ""Accomodation"", ""Food"", ""Shadow"", ""Water""]",,,,50,22,2026-02-23,36.1724438,29.6500377
+1043,Çoban Beach,Beaches & Coastal Areas,,,[],"[""Shadow""]",,,,50,22,2026-02-23,36.1541132,29.6564411
+1044,Ufakdere Beach,Beaches & Coastal Areas,,,"[""No Signal""]","[""Accomodation"", ""Food"", ""Water"", ""Shadow"", ""Toilets""]",,,,50,22,2026-02-23,36.153133,29.6785304
+1045,Üzüm Pier,Beaches & Coastal Areas,,,[],[],,,,50,23,2026-02-23,36.1561005,29.7129562
+1046,End point of Ufakdere,End of Segment,,,[],"[""Food"", ""Toilets"", ""Shadow"", ""Water"", ""Accomodation""]",,,,50,22,2026-02-23,36.1520514,29.6783138
+1047,End point of Üzüm Pier,End of Segment,,,[],[],,,,50,23,2026-02-23,36.1562326,29.7129623
+1048,Habesa Bungalov Hotel,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Accomodation"", ""Food"", ""Water"", ""Toilets""]",,,,50,23,2026-02-23,36.1599821,29.7092173
+1049,Start point of Üzümlü Pier,Trailheads & Parking,,,[],[],,,,50,24,2026-02-23,36.16014,29.709154
+1050,Lykia Camping & Cafe,Accommodation & Camping Sites,,,[],"[""Food"", ""Water"", ""Shadow"", ""Accomodation"", ""Toilets""]",,,,50,24,2026-02-23,36.1871571,29.750073
+1051,Ali's House Camp & Pension,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Toilets"", ""Water"", ""Accomodation"", ""Food""]",,,,50,24,2026-02-23,36.1928083,29.7533453
+1052,Apollonia Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,24,2026-02-23,36.1865444,29.7635565
+1053,End point of Boğazcık,End of Segment,,,[],[],,,,50,24,2026-02-23,36.1924788,29.7535059
+1054,Start point of Boğazcık,Trailheads & Parking,,,[],[],,,,50,25,2026-02-23,36.190784,29.753416
+1055,Sunken City of Aperlai,Ancient Cities & Archaeological Sites,,,[],[],,,,50,25,2026-02-23,36.159113,29.786686
+1056,Aperlai Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,25,2026-02-23,36.159716,29.7808342
+1057,Aperlai Restaurant & Pansiyon,Restaurants & Local Cuisine,,,[],"[""Water"", ""Accomodation"", ""Shadow"", ""Food"", ""Toilets""]",,,,50,25,2026-02-23,36.1632271,29.8003292
+1058,Yörük Ramazan Restaurant,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,25,2026-02-23,36.1638204,29.8007681
+1059,End point of Kaleüçağız,End of Segment,,,[],[],,,,50,26,2026-02-23,36.196524,29.844745
+1060,Kekova Pension,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Food"", ""Water"", ""Accomodation"", ""Toilets""]",,,,50,26,2026-02-23,36.196775,29.845515
+1061,Kekova Boat Tour,Outdoor Activities,,,[],"[""Food"", ""Toilets"", ""Shadow"", ""Water""]",,,,50,27,2026-02-23,36.1965447,29.8466966
+1062,Kayaking tour ,Outdoor Activities,,,[],[],,,,50,27,2026-02-23,36.196741,29.846647
+1063,Scubadiving in Kaş,Outdoor Activities,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,21,2026-02-23,36.1985092,29.6403505
+1064,Start point of Kaleüçağız,Start of Segment,,,[],[],,,,50,28,2026-02-23,36.1978604,29.8489013
+1065,Smugglers Inn Cafe & Restaurant,Restaurants & Local Cuisine,,,[],"[""Toilets"", ""Food"", ""Water"", ""Shadow""]",,,,50,28,2026-02-23,36.205238,29.8909758
+1066,Şenay Cafe & Pension,Restaurants & Local Cuisine,,,[],"[""Accomodation"", ""Toilets"", ""Water"", ""Shadow"", ""Food""]",,,,50,28,2026-02-23,36.2299752,29.8951316
+1067,Çağıllı Beach,Beaches & Coastal Areas,,,[],[],,,,50,29,2026-02-23,36.2337417,29.9219147
+1068,Çayağzı Beach,Beaches & Coastal Areas,,,[],[],,,,50,29,2026-02-23,36.2282178,29.9425178
+1069,Canoe tour,Outdoor Activities,,,[],[],,,,50,29,2026-02-23,36.230737,29.939419
+1070,End point of Çayağzı(Demre),End of Segment,,,[],[],,,,50,29,2026-02-23,36.23066,29.939394
+1071,Dufa Bungalov,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Food"", ""Water"", ""Accomodation"", ""Toilets""]",,,,50,29,2026-02-23,36.2297735,29.9929732
+1072,End point of Alakilise,End of Segment,,,"[""Dangerous Path""]",[],,,,50,32,2026-02-23,36.3332897,30.0039575
+1073,Yatıkardıç Plateau,Eco‑Tourism Spots,,,[],[],,,,50,33,2026-02-23,36.3246619,30.0625195
+1074,End point of Finike,End of Segment,,,[],"[""Accomodation"", ""Shadow"", ""Food"", ""Toilets"", ""Water""]",,,,50,34,2026-02-23,36.2974995,30.1459074
+1075,Start point of Alakilise,Trailheads & Parking,,,[],[],,,,50,33,2026-02-23,36.335086,30.006934
+1076,Esperanza Boutique Hotel of Lykia,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Shadow"", ""Accomodation"", ""Food"", ""Water""]",,,,50,35,2026-02-23,36.2836824,30.4082438
+1077,Start point of Karaöz,Start of Segment,,,[],[],,,,50,36,2026-02-23,36.273117,30.4106773
+1078,Lighthouse Camping,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Accomodation"", ""Water"", ""Food"", ""Toilets""]",,,,50,35,2026-02-23,36.2514636,30.4070231
+1079,SunSea Karaöz - Sülo Palas Camping & Bungalov,Accommodation & Camping Sites,,,[],"[""Shadow"", ""Accomodation"", ""Food"", ""Toilets"", ""Water""]",,,,50,35,2026-02-23,36.2729667,30.4108064
+1080,End point of Adrasan,End of Segment,,,[],"[""Water"", ""Food"", ""Shadow"", ""Accomodation"", ""Toilets""]",,,,50,37,2026-02-23,36.305119,30.4650708
+1081,Karaöz Beach,Beaches & Coastal Areas,,,[],[],,,,50,35,2026-02-23,36.2743987,30.4089208
+1082,Adrasan Beach,Beaches & Coastal Areas,,,[],"[""Water"", ""Shadow"", ""Food"", ""Toilets"", ""Accomodation""]",,,,50,37,2026-02-23,36.3053189,30.4654336
+1083,Jungle Bungalows & Camping,Accommodation & Camping Sites,,,[],"[""Water"", ""Shadow"", ""Toilets"", ""Accomodation"", ""Food""]",,,,50,37,2026-02-23,36.2928884,30.4632529
+1084,Portakal Bahçesi Bungalov,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Food"", ""Accomodation"", ""Shadow"", ""Water""]",,,,50,37,2026-02-23,36.3110395,30.4615115
+1085,Likya Adrasan Hotel,Accommodation & Camping Sites,,,[],"[""Toilets"", ""Water"", ""Accomodation"", ""Food"", ""Shadow""]",,,,50,37,2026-02-23,36.3146027,30.4612929
+1086,End point of Çıralı,End of Segment,,,[],"[""Food"", ""Toilets"", ""Shadow"", ""Water"", ""Accomodation""]",,,,50,39,2026-02-23,36.4143033,30.4818376
+1087,Çıralı Chimaera Camping & Bungalow,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,39,2026-02-23,36.414449,30.4801864
+1088,End Point of Tekirova,End of Segment,,,[],[],,,,50,40,2026-02-23,36.4905098,30.5216168
+1089,Premium park apart otel,Accommodation & Camping Sites,,,[],"[""Water"", ""Shadow"", ""Accomodation"", ""Toilets""]",,,,50,40,2026-02-23,36.5069761,30.5202023
+1090,Millennium Hotel,Accommodation & Camping Sites,,,[],"[""Food"", ""Accomodation"", ""Shadow"", ""Toilets"", ""Water""]",,,,50,40,2026-02-23,36.5019602,30.5252415
+1091,End point of Kuzdere,End of Segment,,,[],[],,,,50,41,2026-02-23,36.5786708,30.5275515
+1092,Start point of Kuzdere-Roman Bridge,Start of Segment,,,[],[],,,,50,42,2026-02-23,36.5899715,30.5137857
+1093,Likya Yolu Doğa Camping & Bungalov,Accommodation & Camping Sites,,,[],"[""Accomodation"", ""Shadow"", ""Food"", ""Toilets"", ""Water""]",,,,50,42,2026-02-23,36.6743587,30.4634273
+1094,Nadir’s House,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Food"", ""Shadow"", ""Accomodation""]",,,,50,42,2026-02-23,36.6678727,30.4557082
+1095,End point of Göynük Plateau,End of Segment,,,[],[],,,,50,42,2026-02-23,36.6666303,30.4552184
+1096,Start point of Göynük Plateau,Trailheads & Parking,,,[],[],,,,50,43,2026-02-23,36.667845,30.4557176
+1097,End point of Göynük Canyon,End of Segment,,,[],"[""Toilets"", ""Shadow"", ""Food"", ""Water""]",,,,50,43,2026-02-23,36.6827998,30.53086
+1098,Start point of Göynük Canyon,Start of Segment,,,[],"[""Shadow"", ""Toilets"", ""Food"", ""Water""]",,,,50,44,2026-02-23,36.683349,30.527784
+1099,End point of Hisarçandır,End of Segment,,,[],[],,,,50,44,2026-02-23,36.7672727,30.4593517
+1100,Guesthouse ,Accommodation & Camping Sites,,,[],"[""Accomodation"", ""Toilets"", ""Shadow"", ""Water"", ""Food""]",,,,50,44,2026-02-23,36.7696153,30.4648663
+1101,Hisarçandır Hotel,Accommodation & Camping Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,44,2026-02-23,36.7672048,30.4614961
+1102,Start point of Hisarçandır,Trailheads & Parking,,,[],[],,,,50,46,2026-02-23,36.773366,30.459152
+1103,Göynük Canyon,Eco‑Tourism Spots,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,43,2026-02-23,36.682533,30.5322642
+1104,Zipline & Canyoning (Body Rafting),Outdoor Activities,,,[],"[""Shadow"", ""Water"", ""Food"", ""Toilets""]",,,,50,43,2026-02-23,36.682533,30.5322642
+1105,End point of Geyikbayırı,End of Segment,,,[],"[""Accomodation"", ""Toilets"", ""Food"", ""Water"", ""Shadow""]",,,,50,46,2026-02-23,36.87239,30.481069
+1106,Josito Camping & Bungalov,Accommodation & Camping Sites,,,[],"[""Water"", ""Accomodation"", ""Shadow"", ""Food"", ""Toilets""]",,,,50,46,2026-02-23,36.8741566,30.4835321
+1107,Trebenna Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,46,2026-02-23,36.8648491,30.4753038
+1108,Rock climbing,Outdoor Activities,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,46,2026-02-23,36.8735953,30.4860859
+1109,Boat Tour,Outdoor Activities,,,[],"[""Toilets"", ""Shadow"", ""Food"", ""Water""]",,,,50,3,2026-02-23,36.5445481,29.1237758
+1110,Scubadiving,Outdoor Activities,,,[],"[""Toilets"", ""Shadow"", ""Water"", ""Food""]",,,,50,3,2026-02-23,36.5450771,29.1230403
+1111,Sign,Regulations & Permits,,,[],[],,,,50,43,2026-02-23,36.679901,30.527727
+1112,Sign,Regulations & Permits,,,[],[],,,,50,43,2026-02-23,36.683292,30.528898
+1113,Babadag Mountain-Paraglading,Outdoor Activities,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,3,2026-02-23,36.5470025,29.1220009
+1114,Mosque of Göynük Plateau ,Emergency & Safety Points,,,[],"[""Shadow""]",,,,50,42,2026-02-23,36.656632,30.457562
+1115,Sign about Caretta caretta,Flora & Fauna,,,[],[],,,,50,40,2026-02-23,36.438886,30.488196
+1116,Kayaköy (Ghost town),Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.575049,29.091024
+1117,Butterfly Valley,Eco‑Tourism Spots,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,4,2026-02-23,36.496526,29.13805
+1118,Ölüdeniz Natural Park & Blue Lagoon,Beaches & Coastal Areas,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.550324,29.116118
+1120,General Map,Trekking Routes & Hiking Trails,,,[],"[""Shadow""]",,,,50,3,2026-02-23,36.56128,29.137833
+1121,Alternative Route (Faralya-Aktaş-Kabak),Trekking Routes & Hiking Trails,,,[],"[""Shadow""]",,,,50,5,2026-02-23,36.494416,29.118754
+1122,Alternative Route (Kabak Bay-Cennet Bay-Kalabantia Bay-Ottoman c,Trekking Routes & Hiking Trails,,,[],[],,,,50,6,2026-02-23,36.460531,29.125881
+1123,Alternative Route (to Alınca),Trekking Routes & Hiking Trails,,,[],[],,,,50,6,2026-02-23,36.45364,29.125233
+1124,Alternative Route (Çıralı-Tahtalı Mountain),Trekking Routes & Hiking Trails,,,[],[],,,,50,40,2026-02-23,36.429226,30.463909
+1125,Alternative Route (Üzümlü Bay-Boğazcık)https://gadventures.wd3.m,Trekking Routes & Hiking Trails,,,[],[],,,,50,24,2026-02-23,36.156476,29.712897
+1126,Amintas Rock Tombs,Tourist Attractions & Landmarks,,,[],"[""Water"", ""Shadow""]",,,,50,3,2026-02-23,36.61898,29.11827
+1127,Paspatur Bazaar,Tourist Attractions & Landmarks,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,3,2026-02-23,36.620857,29.109088
+1128,Fethiye Cordon,Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.632138,29.118896
+1129,Kayaköy (Ghost town),Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.574422,29.087107
+1130,Af Kule Monastery,Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.579412,29.03757
+1131,St.Nicholas Island (Gemiler island),Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.554231,29.067338
+1132,Babadağ Mountain,Tourist Attractions & Landmarks,,,[],[],,,,50,3,2026-02-23,36.530117,29.18151
+1133,Sidyma Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,8,2026-02-23,36.40772,29.191238
+1134,Pydnai Castle,Ancient Cities & Archaeological Sites,,,[],[],,,,50,12,2026-02-23,36.333247,29.231763
+1135,Butterfly Valley Beach,Beaches & Coastal Areas,,,[],[],,,,50,4,2026-02-23,36.497886,29.126818
+1136,Aladere Waterfall,Eco‑Tourism Spots,,,"[""Slippery"", ""No Signal"", ""Dangerous Path""]","[""Water"", ""Shadow""]",,,,50,6,2026-02-23,36.469119,29.140365
+1137,Ölüdeniz Aydede Camping,Accommodation & Camping Sites,,,[],[],,,,50,3,2026-02-23,36.561683,29.138247
+1138,Ölüdeniz Beach,Beaches & Coastal Areas,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Accomodation"", ""Food""]",,,,50,3,2026-02-23,36.546073,29.121966
+1139,Kıdrak Beach,Beaches & Coastal Areas,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.53053,29.12747
+1140,Pınara Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,7,2026-02-23,36.490306,29.258883
+1141,Gizlikent Waterfall,Eco‑Tourism Spots,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,12,2026-02-23,36.482642,29.396575
+1142,Saklıkent Natural Park,Eco‑Tourism Spots,,,[],"[""Water"", ""Toilets"", ""Food""]",,,,50,12,2026-02-23,36.473751,29.403368
+1143,Yakapark,Tourist Attractions & Landmarks,,,[],"[""Water"", ""Toilets""]",,,,50,12,2026-02-23,36.551142,29.439314
+1144,Blue Cave,Eco‑Tourism Spots,,,[],[],,,,50,50,2026-02-23,36.22619,29.455195
+1145,Pınarbaşı Mosque,Emergency & Safety Points,,,[],"[""Water"", ""Toilets"", ""Shadow""]",,,,50,19,2026-02-23,36.240065,29.67096
+1146,Gallery Anatolia,Local Handicrafts,,,[],[],,,,50,19,2026-02-23,36.247469,29.683279
+1147,Isinda Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,22,2026-02-23,36.189312,29.701276
+1148,Didi's Art Atelier,Local Handicrafts,,,[],[],,,,50,21,2026-02-23,36.199279,29.637899
+1149,Terra dekor,Local Handicrafts,,,[],[],,,,50,21,2026-02-23,36.200476,29.640597
+1150,Silkroad Kaş,Local Handicrafts,,,[],[],,,,50,21,2026-02-23,36.200899,29.640602
+1151,Silver Art Lale,Local Handicrafts,,,[],[],,,,50,21,2026-02-23,36.199938,29.641549
+1152,Old Orient Carpet Bazaar,Local Handicrafts,,,[],[],,,,50,3,2026-02-23,36.621154,29.108922
+1153,Mimosa Atelier,Local Handicrafts,,,[],[],,,,50,3,2026-02-23,36.663212,29.123532
+1154,Zuzu Gift Shop,Local Handicrafts,,,[],[],,,,50,3,2026-02-23,36.549155,29.124682
+1155,Soap Lady,Local Handicrafts,,,[],[],,,,50,3,2026-02-23,36.549269,29.124753
+1156,Firoze,Local Handicrafts,,,[],[],,,,50,3,2026-02-23,36.548144,29.123451
+1157,Lighting a fire is forbidden in all forests,Regulations & Permits,,,[],"[""Water""]",,,,50,3,2026-02-23,36.520806,29.161808
+1158,Free camping,Regulations & Permits,,,[],"[""Toilets"", ""Food""]",,,,50,4,2026-02-23,36.496267,29.137198
+1159,Free camping area,Regulations & Permits,,,[],"[""Shadow""]",,,,50,6,2026-02-23,36.454193,29.141669
+1160,Lighting a fire is forbidden in all forests,Regulations & Permits,,,[],[],,,,50,46,2026-02-23,36.876984,30.486083
+1161,Start point of Lycian Way (opposite side),Start of Segment,,,[],[],,,,50,46,2026-02-23,36.87671,30.485832
+1162,Xanthos Working Hours,Regulations & Permits,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,12,2026-02-23,36.356243,29.318549
+1163,Letoon Working Hours,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow""]",,,,50,12,2026-02-23,36.331772,29.28984
+1164,Patara Working Hours,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow""]",,,,50,3,2026-02-23,36.261436,29.315678
+1165,Amintas Working Hours,Regulations & Permits,,,[],[],,,,50,3,2026-02-23,36.618838,29.118583
+1166,Kayaköy Working Hours,Regulations & Permits,,,[],[],,,,50,3,2026-02-23,36.574349,29.086778
+1167,Lymira Working Hours,Regulations & Permits,,,[],[],,,,50,35,2026-02-23,36.342851,30.170836
+1168,Myra Working Hours,Regulations & Permits,,,[],[],,,,50,30,2026-02-23,36.258818,29.985248
+1169,St.Nicholas Church Working Hours,Regulations & Permits,,,[],[],,,,50,30,2026-02-23,36.244824,29.985382
+1170,Simena Castle Working Hours,Regulations & Permits,,,[],[],,,,50,28,2026-02-23,36.191208,29.86195
+1171,Aperlai Ancient City Working Hours,Regulations & Permits,,,[],[],,,,50,25,2026-02-23,36.159406,29.781442
+1172,Antiphellos Ancient City Working Hours,Regulations & Permits,,,[],[],,,,50,21,2026-02-23,36.19971,29.635012
+1173,Olympos Ancient City Working Hours,Regulations & Permits,,,[],[],,,,50,38,2026-02-23,36.395425,30.472561
+1174,Chimaera Natural Park working hours,Regulations & Permits,,,[],[],,,,50,39,2026-02-23,36.431017,30.456469
+1175,Olympos Cable Car,Operators & Providers,,,[],[],,,,50,41,2026-02-23,36.540578,30.486936
+1176,Tahtalı Mountain (Olympos),Eco‑Tourism Spots,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,41,2026-02-23,36.536426,30.44274
+1177,Tahtalı Mountain-Paraglading,Outdoor Activities,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,41,2026-02-23,36.536359,30.442049
+1178,Beldibi Cave,Eco‑Tourism Spots,,,[],[],,,,50,43,2026-02-23,36.744244,30.569211
+1179,Tenedos Ancient City,Ancient Cities & Archaeological Sites,,,[],[],,,,50,43,2026-02-23,36.75197,30.559113
+1180,Risk of rockfall or landslide,Trail Conditions & Closures,,,"[""Slippery"", ""Rock"", ""No Signal"", ""Dangerous Path""]",[],,,,50,6,2026-02-23,36.468172,29.14631
+1181,Slippery surface,Trail Conditions & Closures,,,"[""Slippery"", ""Dangerous Path""]",[],,,,50,8,2026-02-23,36.38725,29.151333
+1182,"Missing sign, pay attention.",Trail Conditions & Closures,,,"[""No Signal""]",[],,,,50,33,2026-02-23,36.343477,30.012401
+1183,"Missing sign, pay attention.",Trail Conditions & Closures,,,[],[],,,,50,33,2026-02-23,36.354529,30.041489
+1184,Fallen tree,Trail Conditions & Closures,,,[],[],,,,50,3,2026-02-23,36.352317,30.038944
+1185,Stream crossing,Trail Conditions & Closures,,,[],"[""Water""]",,,,50,43,2026-02-23,36.675137,30.479045
+1186,Kalkan Taxi,Operators & Providers,,,[],"[""Water"", ""Food""]",,,,50,14,2026-02-23,36.265227,29.414685
+1187,Kaş Taxi,Operators & Providers,,,[],[],,,,50,22,2026-02-23,36.199095,29.639986
+1188,Kaş Bus Station,Operators & Providers,,,[],"[""Water"", ""Shadow"", ""Food""]",,,,50,21,2026-02-23,36.202137,29.638301
+1189,Antalya Bus Station,Transportation & Accessibility (includes Boat/Water),,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,46,2026-02-23,36.921593,30.66498
+1190,Lycian Way Guiding & Transfer & Backpack Transfer,Transportation & Accessibility (includes Boat/Water),,,[],[],,,,50,46,2026-02-23,36.876761,30.485884
+1191,Lycian Way Guiding & Transfer & Backpack Transfer,Operators & Providers,,,[],[],,,,50,3,2026-02-23,36.561291,29.137789
+1192,Gözde Restaurant,Restaurants & Local Cuisine,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.57052,29.141186
+1193,Bank ATMs,Operators & Providers,,,[],[],,,,50,3,2026-02-23,36.570545,29.140592
+1194,Babadag Cable Car,Operators & Providers,,,[],[],,,,50,3,2026-02-23,36.561332,29.133048
+1195,Ölüdeniz Ovacık Taxi,Ancient Cities & Archaeological Sites,,,[],[],,,,50,3,2026-02-23,36.575511,29.150046
+1196,Demre Bus Station,Transportation & Accessibility (includes Boat/Water),,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,30,2026-02-23,36.243445,29.987295
+1197,Demre Taxi,Operators & Providers,,,[],[],,,,50,30,2026-02-23,36.243374,29.987348
+1198,Finike Bus Station,Operators & Providers,,,[],[],,,,50,34,2026-02-23,36.300008,30.143466
+1199,Adrasan Taxi,Ancient Cities & Archaeological Sites,,,[],[],,,,50,3,2026-02-23,36.330695,30.436316
+1200,Ulupınar Şelale Restaurant,Ancient Cities & Archaeological Sites,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.45323,30.435868
+1201,Kemer Bus Station,Operators & Providers,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,41,2026-02-23,36.600768,30.543658
+1202,Antalya Airport,Operators & Providers,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,46,2026-02-23,36.902091,30.798408
+1203,Dalaman Airport,Operators & Providers,,,[],"[""Water"", ""Toilets"", ""Shadow"", ""Food""]",,,,50,3,2026-02-23,36.710752,28.78802
+1204,Tlepolemos (Sorouda/Hoyran),Tourist Attractions & Landmarks,,,[],[],,,,50,28,2026-02-23,36.234588,29.877195
+1205,Istlada - Hoyran,Tourist Attractions & Landmarks,,,[],[],,,,50,28,2026-02-23,36.2316,29.876801
+1206,"Firestone: Bellerophon's Calculation with a ""Chimera""",Historical & Mythological Stories,,,[],[],,,,50,39,2026-02-23,36.42931,30.464278
+1207,Olympos: Pirate Coves and Roman Order,Historical & Mythological Stories,,,[],[],,,,50,38,2026-02-23,36.395115,30.471871
+1208,Patara: The Lycian League and the Early Idea of ​​Representation,Eco‑Tourism Spots,,,[],[],,,,50,13,2026-02-23,36.261552,29.315683
+1209,"Patara: The Oracle of Apollo and ""The Power of the Word""",Historical & Mythological Stories,,,[],[],,,,50,13,2026-02-23,36.261238,29.315255
+1210,"Letoon: Leto, Artemis & Apollon",Historical & Mythological Stories,,,[],[],,,,50,12,2026-02-23,36.331841,29.289475
+1211,"Myra: Saint Nicholas and the ""Real Santa Claus""",Historical & Mythological Stories,,,[],[],,,,50,30,2026-02-23,36.257537,29.985205
+1212,"Lycian Rock Tombs: The Belief in ""The Ascension of the Soul""",Historical & Mythological Stories,,,[],[],,,,50,30,2026-02-23,36.258498,29.985693
+1213,Homer's Lycians: Sarpedon in the Trojan War (The Iliad narrative,Historical & Mythological Stories,,,[],[],,,,50,12,2026-02-23,36.355921,29.31992
+1214,Kekova – The Sunken City: The Coast Swallowed by the Earthquake,Historical & Mythological Stories,,,[],[],,,,50,27,2026-02-23,36.183294,29.878627
+1215,"Xanthos: The Heavy Price of Honor, Tragedy, and Resistance",Historical & Mythological Stories,,,[],[],,,,50,12,2026-02-23,36.358362,29.320216
+1216,Air Games Festival,Cultural Events & Festivals,,,[],[],,,,50,3,2026-02-23,36.546102,29.12328
+1217,Fethiye International Film Festival,Cultural Events & Festivals,,,[],[],,,,50,3,2026-02-23,36.626843,29.146099
+1218,International Festival of Dance and Songs,Cultural Events & Festivals,,,[],[],,,,50,3,2026-02-23,36.630346,29.131649
+1219,Into The Wild Festival,Cultural Events & Festivals,,,[],[],,,,50,5,2026-02-23,36.461965,29.125246
+1220,Antalya Golden Orange Film Festival,Cultural Events & Festivals,,,[],[],,,,50,46,2026-02-23,36.895683,30.712658
+1221,International Lycian Kas Culture and Arts Festival,Cultural Events & Festivals,,,[],[],,,,50,21,2026-02-23,36.199396,29.641116
+1222,Kaş International Film Festival,Cultural Events & Festivals,,,[],[],,,,50,21,2026-02-23,36.199396,29.641116
+1223,Kas Jazz Festival,Cultural Events & Festivals,,,[],[],,,,50,21,2026-02-23,36.199335,29.640998
+1224,Antalya Cultural Festival,Cultural Events & Festivals,,,[],[],,,,50,46,2026-02-23,36.904773,30.705056
+1225,Antalya Summer Dance Festival,Ancient Cities & Archaeological Sites,,,[],[],,,,50,3,2026-02-23,36.904773,30.705056
+1226,Antalya Magic Break,Cultural Events & Festivals,,,[],[],,,,50,46,2026-02-23,36.89053,30.721009
+1227,Dalaman Transfer (Marmaris-Fethiye-Kaş-Kalkan),Transportation & Accessibility (includes Boat/Water),,,[],[],,,,50,3,2026-02-23,36.715893,28.788789
+1228,Faralya Kabak Mosque,Emergency & Safety Points,,,[],[],,,,50,5,2026-02-23,36.468955,29.124484
+1229,Mosque,Emergency & Safety Points,,,[],[],,,,50,11,2026-02-23,36.335489,29.204095
+1230,Mosque,Emergency & Safety Points,,,[],[],,,,50,16,2026-02-23,36.239552,29.545551
+1231,Sarıbelen Mosque,Emergency & Safety Points,,,[],[],,,,50,15,2026-02-23,36.261836,29.480057
+1232,Çukurbağ Mosque,Emergency & Safety Points,,,[],[],,,,50,20,2026-02-23,36.235435,29.660895
+1233,Aslanbucak Mosque,Emergency & Safety Points,,,[],[],,,,50,41,2026-02-23,36.590875,30.523946
+1234,Fethiye State Hospital,Emergency & Safety Points,,,[],[],,,,50,3,2026-02-23,36.652671,29.119803
+1235,Old church in St.Nicholas Island,Pilgrimage & Religious Sites,,,[],[],,,,50,3,2026-02-23,36.553914,29.070591
+1236,Watch Towet Church,Pilgrimage & Religious Sites,,,[],[],,,,50,3,2026-02-23,36.573118,29.085722
+1237,Upper Church,Pilgrimage & Religious Sites,,,[],[],,,,50,3,2026-02-23,36.57501,29.091459
+1238,The Paleo - Christian Church of Symbola,Pilgrimage & Religious Sites,,,[],[],,,,50,3,2026-02-23,36.546805,29.123158
+1239,Priest's Rock Chapel,Pilgrimage & Religious Sites,,,[],[],,,,50,46,2026-02-23,36.874236,30.709576
+1240,Yenikapı Rum Church,Pilgrimage & Religious Sites,,,[],[],,,,50,46,2026-02-23,36.882281,30.706993
+1241,Adrasan Castle,Ancient Cities & Archaeological Sites,,,[],[],,,,50,38,2026-02-23,36.317308,30.466688

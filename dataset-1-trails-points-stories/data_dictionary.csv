@@ -1,0 +1,35 @@
+file,field,type,description
+trails,id,integer,Trail identifier
+trails,uuid,text,Stable public identifier of the trail
+trails,name,text,Stage name (start – end)
+trails,description,text,Stage description
+trails,distance_km,number,Length of the stage in kilometres
+trails,elevation_gain_m,integer,Total ascent in metres
+trails,elevation_loss_m,integer,Total descent in metres
+trails,difficulty,text,Difficulty level
+trails,estimated_duration_hours,number,Estimated walking time in hours
+trails,start_lat / start_lon,number,"Start coordinates (WGS 84), CSV only"
+trails,end_lat / end_lon,number,"End coordinates (WGS 84), CSV only"
+trails,geometry,LineString,"Route geometry, GeoJSON only"
+trails,last_updated,date,Date of the last change
+segments,segment_id,integer,Identifier of the original Lycian Way segment
+segments,segment_name,text,Segment name
+points_of_interest,id,integer,Point identifier
+points_of_interest,name,text,Name of the point
+points_of_interest,category,text,"Category (24 categories, e.g. water source, accommodation, ancient city)"
+points_of_interest,latitude / longitude,number,Coordinates (WGS 84); Point geometry in GeoJSON
+points_of_interest,altitude_m,number,Altitude in metres
+points_of_interest,description,text,"Description, where available"
+points_of_interest,threats,JSON list,Hazards at or near the point
+points_of_interest,resources,JSON list,"Practical resources (water, food, shelter)"
+points_of_interest,opening_hours,text,"Opening hours, where relevant"
+points_of_interest,website_url,text,"Public website, where relevant"
+points_of_interest,year_made,text,"Construction period of heritage sites, where known"
+points_of_interest,audio_trigger_distance_m,integer,Distance at which the audio story starts in the application
+points_of_interest,segment_id,integer,Original segment the point belongs to (see segments.csv)
+points_of_interest,last_updated,date,Date of the last change
+stories,story_id,integer,Story identifier; matches the audio file name in Dataset 2
+stories,location_id,integer,Point of interest the story belongs to
+stories,title,text,Story title
+stories,language,text,Language code (EN)
+stories,story_text,text,Full text of the cultural story as narrated
